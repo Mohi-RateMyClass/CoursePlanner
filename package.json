@@ -20,6 +20,8 @@
     "@angular/router": "^17.0.0",
     "csv-parse": "^5.5.3",
     "firebase": "^10.7.1",
+    "gapi": "^0.0.3",
+    "ng-gapi": "^0.0.94",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"

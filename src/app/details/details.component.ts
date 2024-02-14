@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { HttpClient ,HttpClientModule} from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
+import { CommonModule } from '@angular/common';
 
 type classContents = {
   name: string;
@@ -10,27 +11,35 @@ type classContents = {
   subject : string;
 };
 
+export const CLASSES: classContents[] = [
+  {name :"Calculus",code :"1",credits: 5,length: 2,prereq: "none",subject: "math"},
+  {name :"Calculus1",code :"1",credits: 5,length: 2,prereq: "none",subject: "math"},
+  {name :"Calculus2",code :"1",credits: 5,length: 2,prereq: "none",subject: "math"},
+];
 
 
 @Component({
   selector: 'app-details',
   standalone: true,
-  imports: [HttpClientModule],
+  imports: [CommonModule,FormsModule],
   templateUrl: './details.component.html',
   styleUrl: './details.component.css'
 })
 
-export class DetailsComponent implements OnInit{
-    response;
-    constructor(private http: HttpClient){}
 
-    ngOnInit(){
-    
+export class DetailsComponent{
+  
+  
+  classes = CLASSES;
 
-    this.http.get<any>("https://sheets.googleapis.com/v4/spreadsheets/1uP9MF0Jf2FhqxcEToxJ014O2GpBNNhk04paK_6n4n7k/values/A1:F186").subscribe(data => {
-      this.response = data.total;
-    })
-    console.log(this.response)
-    }
+  selectedClass : classContents;
+  
+
+  onSelect(currentClass: classContents): void {
+    var T = document.getElementById("Reviews");
+    T.style.display = "block";  
+    this.selectedClass = currentClass;
+  }
+  
 }
 

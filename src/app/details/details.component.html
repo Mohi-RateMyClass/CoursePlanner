@@ -1,7 +1,26 @@
-<!DOCTYPE html>
-<html>
+<h2>Classes</h2>
+<ul class="classes">
+  
+    <li *ngFor="let class of classes" (click)="onSelect(class)">
+      
+              <span class="badge">{{class.name}}</span> 
+           
+    </li>
+</ul>
 
-<body>
-</body>
+<h2>{{selectedClass.name | uppercase}} Details</h2>
 
-</html>
+<div>
+  <label>
+    
+    <div id = "Reviews" style="display:none">
+    <input id="Review" placeholder="Write a Review on {{selectedClass.name}}">
+    <input type="submit" value="Submit Review">
+    </div>
+
+    <p>Subject: {{selectedClass.subject}}</p>
+    <p>Class Code: {{selectedClass.code}}</p>
+    <p>Credits: {{selectedClass.credits}}</p>
+    <p>Prerequisite: {{selectedClass.prereq}}</p>
+  </label>
+</div>
