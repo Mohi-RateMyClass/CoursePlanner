@@ -1,6 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Inject, Injectable, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
+import {ChangeDetectorRef } from '@angular/core';
 
 type classContents = {
   name: string;
@@ -17,7 +18,6 @@ export const CLASSES: classContents[] = [
   {name :"Calculus2",code :"1",credits: 5,length: 2,prereq: "none",subject: "math"},
 ];
 
-
 @Component({
   selector: 'app-details',
   standalone: true,
@@ -29,16 +29,22 @@ export const CLASSES: classContents[] = [
 
 export class DetailsComponent{
   
-  
   classes = CLASSES;
 
-  selectedClass : classContents;
+  selectedClass : classContents  = {name: "No class selected",code: 
+"0",credits: 0,length: 0, prereq: "none", subject: "none"};
   
 
   onSelect(currentClass: classContents): void {
     var T = document.getElementById("Reviews");
     T.style.display = "block";  
+    var V = document.getElementById("ClassList");
+    V.style.display = "none";
     this.selectedClass = currentClass;
+  }
+  
+  resetPage() : void{
+    window.location.reload();
   }
   
 }

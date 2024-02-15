@@ -1,26 +1,30 @@
-<h2>Classes</h2>
+<div id = "ClassList">
+  <h2>Classes</h2>
 <ul class="classes">
-  
+ 
+    <form>
     <li *ngFor="let class of classes" (click)="onSelect(class)">
       
               <span class="badge">{{class.name}}</span> 
-           
+                
     </li>
+    </form>
+  
 </ul>
+</div>
 
-<h2>{{selectedClass.name | uppercase}} Details</h2>
-
-<div>
   <label>
-    
     <div id = "Reviews" style="display:none">
+    <a (click) = "resetPage()"> Go Back</a>
+    <h2>{{selectedClass.name | uppercase}} Details</h2>
     <input id="Review" placeholder="Write a Review on {{selectedClass.name}}">
     <input type="submit" value="Submit Review">
-    </div>
+    
 
     <p>Subject: {{selectedClass.subject}}</p>
     <p>Class Code: {{selectedClass.code}}</p>
     <p>Credits: {{selectedClass.credits}}</p>
     <p>Prerequisite: {{selectedClass.prereq}}</p>
+  </div>
   </label>
-</div>
+
