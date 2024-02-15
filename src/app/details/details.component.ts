@@ -32,7 +32,7 @@ export class DetailsComponent{
   classes = CLASSES;
 
   selectedClass : classContents  = {name: "No class selected",code: 
-"0",credits: 0,length: 0, prereq: "none", subject: "none"};
+"0",credits: 0,length: 0, prereq: "none", subject: "math"};
   
 
   onSelect(currentClass: classContents): void {

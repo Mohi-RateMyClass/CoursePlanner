@@ -1,0 +1,23 @@
+<div id = "list">
+<ul class="subjects">
+<h2>Select a Subject</h2>
+    <form>
+    <li *ngFor="let s of subject" (click)="onSelect(s)">
+      
+              <span class="badge">{{s.name}}</span> 
+                
+    </li>
+    </form>
+  
+</ul>
+</div>
+
+<div id = "selClass" style = "display: none;">
+<label>
+    
+    <a (click) = "resetPage()"> Go Back</a>
+    <h2>{{selectedSubject.name | uppercase}} Details</h2>
+    
+    <li>{{selectedSubject.pathway}}</li>
+  </label>
+</div>
