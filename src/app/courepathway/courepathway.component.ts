@@ -5,11 +5,11 @@ import {ChangeDetectorRef } from '@angular/core';
 
 type subjectThing = {
   name : string,
-  pathway: string[]
+  pathway: string[][]
 };
 
 export const SUBJECTS: subjectThing[] = [
-  {name: "Coding",pathway: ["AP Computer Science Principles","AP Computer Science A","Coding Capstone"]}
+  {name: "Coding",pathway: [["Freshman","AP Computer Science Principles"],["Sophmore","AP Computer Science A"],["Junior","Coding Captsone"],["Senior","Slack Off"]]}
 ]
 
 @Component({
@@ -20,10 +20,14 @@ export const SUBJECTS: subjectThing[] = [
   styleUrl: './courepathway.component.css'
 })
 export class CourepathwayComponent {
+  
+  table: HTMLTableElement;
+  private thead;
+  private tbody;
 
   subject = SUBJECTS;
 
-  selectedSubject: subjectThing = {name: " ",pathway: ["."]};
+  selectedSubject: subjectThing = {name: " ",pathway: [[],[]]};
 
   onSelect(currentSubject: subjectThing): void {
     var T = document.getElementById("selClass");
@@ -32,7 +36,21 @@ export class CourepathwayComponent {
     V.style.display = "none";  
     
     this.selectedSubject = currentSubject;
+
+    this.table = document.getElementById('table') as HTMLTableElement;
+    this.tbody = this.table.createTBody();
+
+    for(let i = 0; i < this.selectedSubject.pathway.length;i++){
+      var row = this.tbody.insertRow();
+
+      for(let j = 0; j < this.selectedSubject.pathway[0].length;j++){
+        var cell = row.insertCell();
+        cell.innerHTML = this.selectedSubject.pathway[i][j];  
+      }
+    }
+    
   }
+  
   resetPage() : void{
     window.location.reload();
   }
