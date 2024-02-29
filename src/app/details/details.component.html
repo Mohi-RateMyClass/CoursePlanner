@@ -1,7 +1,11 @@
 <div id = "ClassList">
+  <input type="text" placeholder="Filter by class" #filter>
+  <button class="primary" type="button" (click)="filterResults(filter.value)">Search</button>
+
   <h2>Classes</h2>
+
     <form>
-    <p *ngFor="let class of classes" (click)="onSelect(class)">
+    <p *ngFor="let class of filteredClass" (click)="onSelect(class)">
       
               <span class="badge">{{class.name}}</span> 
                 
@@ -18,8 +22,6 @@
     <p>Class Code: {{selectedClass.code}}</p>
     <p>Credits: {{selectedClass.credits}}</p>
     <p>Prerequisite: {{selectedClass.prereq}}</p>
-
-    <input id="Review" placeholder="Write a Review on {{selectedClass.name}}">
-    <input type="submit" value="Submit Review">
   </div>
   </label>
+

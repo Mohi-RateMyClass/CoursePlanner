@@ -26,7 +26,7 @@ export class CourepathwayComponent {
   private tbody;
 
   subject = SUBJECTS;
-
+  filteredSubject: subjectThing[] = this.subject;
   selectedSubject: subjectThing = {name: " ",pathway: [[],[]]};
 
   onSelect(currentSubject: subjectThing): void {
@@ -54,5 +54,14 @@ export class CourepathwayComponent {
   resetPage() : void{
     window.location.reload();
   }
+  filterResults(text: string) {
+    if (!text) {
+      this.filteredSubject = this.subject;
+      return;
+    }
   
+    this.filteredSubject = this.subject.filter(
+      subjectThing => subjectThing?.name.toLowerCase().includes(text.toLowerCase())
+    );
+  }
 }

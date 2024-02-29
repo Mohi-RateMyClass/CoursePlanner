@@ -31,6 +31,8 @@ export class DetailsComponent{
   
   classes = CLASSES;
 
+  filteredClass:classContents[] = this.classes;
+
   selectedClass : classContents  = {name: "No class selected",code: 
 "0",credits: 0,length: 0, prereq: "none", subject: "math"};
   
@@ -46,6 +48,15 @@ export class DetailsComponent{
   resetPage() : void{
     window.location.reload();
   }
+  filterResults(text: string) {
+    if (!text) {
+      this.filteredClass = this.classes;
+      return;
+    }
   
+    this.filteredClass = this.classes.filter(
+      classContents => classContents?.name.toLowerCase().includes(text.toLowerCase())
+    );
+  }
 }
 
