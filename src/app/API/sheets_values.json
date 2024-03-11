@@ -1,0 +1,1490 @@
+[
+    [
+        "Classname",
+        "Code",
+        "Credits",
+        "Length",
+        "Prereq",
+        "Subject"
+    ],
+    [
+        "Intro to Entrepreneurship",
+        "B04",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "Principles of Marketing",
+        "B105",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "HSB Principles of Business",
+        "B33",
+        "10",
+        "2",
+        "N/A",
+        "Business"
+    ],
+    [
+        "HSB Principles of Marketing A",
+        "B35",
+        "10",
+        "2",
+        "N/A",
+        "Business"
+    ],
+    [
+        "HSB Principles of Finance",
+        "B37",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "HSB Principles of Management",
+        "B38",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "HSB Business Strategies",
+        "B39",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "Business Marketing Essentials",
+        "B41",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "Legal Environments of Business",
+        "B44",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "Strategic Marketing",
+        "B82",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "HSB Economics",
+        "B87",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "HSB Principles of Marketing B",
+        "B88",
+        "5",
+        "1",
+        "B35",
+        "Business"
+    ],
+    [
+        "HSB Business Marketing Internship",
+        "B89",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "Entrepreneurial Operations",
+        "B92",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "Marketing For The Entrepreneur",
+        "B96",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "AP Macroeconomics",
+        "T75",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "AP Microeconomics",
+        "T77",
+        "5",
+        "1",
+        "N/A",
+        "Business"
+    ],
+    [
+        "Coding 1 A",
+        "D77",
+        "5",
+        "1",
+        "N/A",
+        "Computer Science"
+    ],
+    [
+        "AP Computer Science A",
+        "D78",
+        "10",
+        "2",
+        "N/A",
+        "Computer Science"
+    ],
+    [
+        "Cybersecurity",
+        "D79",
+        "5",
+        "1",
+        "N/A",
+        "Computer Science"
+    ],
+    [
+        "Web Designing Foundations",
+        "D87",
+        "5",
+        "1",
+        "N/A",
+        "Computer Science"
+    ],
+    [
+        "AP Computer Science Principles",
+        "D93/D94",
+        "10",
+        "2",
+        "N/A",
+        "Computer Science"
+    ],
+    [
+        "Culinary Essentials 1",
+        "H20",
+        "5",
+        "1",
+        "N/A",
+        "Food"
+    ],
+    [
+        "Culinary Essentials 2",
+        "H21",
+        "5",
+        "1",
+        "N/A",
+        "Food"
+    ],
+    [
+        "Culinary Nutrition",
+        "H25",
+        "5",
+        "1",
+        "N/A",
+        "Food"
+    ],
+    [
+        "Interpersonal Relationships",
+        "H50",
+        "5",
+        "1",
+        "N/A",
+        "Health"
+    ],
+    [
+        "Life Management",
+        "H54",
+        "5",
+        "1",
+        "N/A",
+        "Health"
+    ],
+    [
+        "Teen Choices",
+        "H74",
+        "5",
+        "1",
+        "N/A",
+        "Health"
+    ],
+    [
+        "Issues in Health",
+        "G50",
+        "5",
+        "1",
+        "N/A",
+        "Health"
+    ],
+    [
+        "Wilderness First Aid",
+        "V132",
+        "5",
+        "1",
+        "N/A",
+        "Health"
+    ],
+    [
+        "9th Grade English Language Arts",
+        "L08",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Senior Literature Composition and Communication",
+        "L100",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "9th Grade English Language Arts Advanced",
+        "L11",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "10th Grade English Language Arts Advanced",
+        "L16",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Creative Writing",
+        "L19",
+        "5",
+        "1",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "11th Grade English Language Arts",
+        "L20",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "10th Grade English Language Arts",
+        "L27",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Public Speaking",
+        "L34",
+        "5",
+        "1",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Theatre 1",
+        "L35",
+        "5",
+        "1",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Theatre 2",
+        "L36",
+        "5",
+        "1",
+        "L35",
+        "Language Arts"
+    ],
+    [
+        "Video and Film Production",
+        "L46",
+        "5",
+        "1",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Video and Film Production 2",
+        "L48",
+        "5",
+        "1",
+        "L46",
+        "Language Arts"
+    ],
+    [
+        "Reading Workshop",
+        "L50",
+        "5",
+        "1",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Philosophy through Film and Literature",
+        "L60",
+        "5",
+        "1",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Broadcast Journalism 1",
+        "L61",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Broadcast Journalism 2",
+        "L62",
+        "10",
+        "2",
+        "L61",
+        "Language Arts"
+    ],
+    [
+        "Broadcast Journalism 3",
+        "L63",
+        "10",
+        "2",
+        "L62",
+        "Language Arts"
+    ],
+    [
+        "AP English Language and Composition",
+        "L77",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Mythology",
+        "L80",
+        "5",
+        "1",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "AP Literature and Composition",
+        "L88",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Yearbook 1",
+        "LE7",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Yearbook 2",
+        "LE11",
+        "10",
+        "2",
+        "LE7",
+        "Language Arts"
+    ],
+    [
+        "Yearbook 3",
+        "LE12",
+        "10",
+        "2",
+        "LE11",
+        "Language Arts"
+    ],
+    [
+        "Newspaper 1",
+        "LE2",
+        "10",
+        "2",
+        "N/A",
+        "Language Arts"
+    ],
+    [
+        "Newspaper 2",
+        "LE4",
+        "10",
+        "2",
+        "LE2",
+        "Language Arts"
+    ],
+    [
+        "Newspaper 3",
+        "LE6",
+        "10",
+        "2",
+        "LE4",
+        "Language Arts"
+    ],
+    [
+        "Music Theory 1",
+        "N31",
+        "10",
+        "2",
+        "N/A",
+        "Music"
+    ],
+    [
+        "AP Music Theory",
+        "N33",
+        "10",
+        "2",
+        "N/A",
+        "Music"
+    ],
+    [
+        "Guitar 1",
+        "N41",
+        "5",
+        "1",
+        "N/A",
+        "Music"
+    ],
+    [
+        "Guitar 2",
+        "N42",
+        "5",
+        "1",
+        "N41",
+        "Music"
+    ],
+    [
+        "Soprano/Alto/Tenor/Bass Choir",
+        "N54",
+        "10",
+        "2",
+        "N/A",
+        "Music"
+    ],
+    [
+        "Soprano/Alto Choir",
+        "N56",
+        "10",
+        "2",
+        "N/A",
+        "Music"
+    ],
+    [
+        "Concert Choir",
+        "N60",
+        "5",
+        "2",
+        "Recommendation",
+        "Music"
+    ],
+    [
+        "Select Soprano/Alto Choir",
+        "N62",
+        "10",
+        "2",
+        "Recommendation",
+        "Music"
+    ],
+    [
+        "Select Soprano/Alto/Tenor/Bass Choir",
+        "N64",
+        "10",
+        "2",
+        "Audition or Instructor's Consent",
+        "Music"
+    ],
+    [
+        "Soprano/Alto Show/Jazz Choir",
+        "N67",
+        "10",
+        "2",
+        "Recommendation",
+        "Music"
+    ],
+    [
+        "Show Choir",
+        "N68",
+        "10",
+        "2",
+        "Recommendation",
+        "Music"
+    ],
+    [
+        "Band Level 1",
+        "N71",
+        "10",
+        "2",
+        "At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
+        "Music"
+    ],
+    [
+        "Band Level 2",
+        "N72",
+        "10",
+        "2",
+        "N71/At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
+        "Music"
+    ],
+    [
+        "Band Level 3",
+        "N73",
+        "10",
+        "2",
+        "N72/At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
+        "Music"
+    ],
+    [
+        "Jazz Band 1",
+        "N75",
+        "10",
+        "2",
+        "N/A",
+        "Music"
+    ],
+    [
+        "Jazz Band 2",
+        "N76",
+        "10",
+        "2",
+        "N75/At least 3 years of study of a jazz band instrument of approval of instructor",
+        "Music"
+    ],
+    [
+        "Jazz Band 3",
+        "N77",
+        "10",
+        "2",
+        "N76/Appropriate experience in playing in a jazz band or permission of instructor",
+        "Music"
+    ],
+    [
+        "Orchestra Level 1",
+        "N81",
+        "10",
+        "2",
+        "N/A",
+        "Music"
+    ],
+    [
+        "Chamber Orchestra",
+        "N86",
+        "10",
+        "2",
+        "Appropriate playing level on an orchestra stringed instrument and approval of the orchestra teacher",
+        "Music"
+    ],
+    [
+        "Algebra 1",
+        "M31",
+        "10",
+        "2",
+        "N/A",
+        "Mathematics"
+    ],
+    [
+        "Problem Solving",
+        "M39",
+        "5",
+        "1",
+        "N/A",
+        "Mathematics"
+    ],
+    [
+        "Geometry",
+        "M41",
+        "10",
+        "2",
+        "M31/M35",
+        "Mathematics"
+    ],
+    [
+        "Geometry Advanced",
+        "M43",
+        "10",
+        "2",
+        "M31/M35",
+        "Mathematics"
+    ],
+    [
+        "Algebra 2",
+        "M51",
+        "10",
+        "2",
+        "M41/M43",
+        "Mathematics"
+    ],
+    [
+        "Algebra 2 Advanced",
+        "M55",
+        "10",
+        "2",
+        "M41/M43",
+        "Mathematics"
+    ],
+    [
+        "Discrete Math",
+        "M58",
+        "5",
+        "1",
+        "N/A",
+        "Mathematics"
+    ],
+    [
+        "Pre-Calculus",
+        "M61",
+        "10",
+        "2",
+        "M51/M55",
+        "Mathematics"
+    ],
+    [
+        "AP Pre-Calculus",
+        "M71",
+        "10",
+        "2",
+        "M51/M55",
+        "Mathematics"
+    ],
+    [
+        "AP Calculus AB",
+        "M65",
+        "10",
+        "2",
+        "M61/M71",
+        "Mathematics"
+    ],
+    [
+        "AP Calculus BC",
+        "M66",
+        "10",
+        "2",
+        "M61/M71",
+        "Mathematics"
+    ],
+    [
+        "Statistics",
+        "M67",
+        "5",
+        "1",
+        "N/A",
+        "Mathematics"
+    ],
+    [
+        "AP Statistics",
+        "M69",
+        "10",
+        "2",
+        "M51/M55",
+        "Mathematics"
+    ],
+    [
+        "Calculus 2",
+        "M87",
+        "5",
+        "1",
+        "M66",
+        "Mathematics"
+    ],
+    [
+        "Calculus 3",
+        "M88",
+        "5",
+        "1",
+        "M87",
+        "Mathematics"
+    ],
+    [
+        "Wellness in Action",
+        "P20",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Fitness",
+        "P23",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Weight Training 1",
+        "P24",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Weight Training 2",
+        "P25",
+        "5",
+        "1",
+        "P24",
+        "Physical Education"
+    ],
+    [
+        "Training for Performance",
+        "P27",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Bowling and Recreational Games",
+        "P30",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Yoga",
+        "P32",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Aerobic Walking",
+        "P44",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Racquet Sports",
+        "P54",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Team Sports",
+        "P70",
+        "5",
+        "1",
+        "N/A",
+        "Physical Education"
+    ],
+    [
+        "Introduction to Engineering Design",
+        "PA1",
+        "5",
+        "1",
+        "N/A",
+        "Engineering"
+    ],
+    [
+        "PLTW Computer Integrated Manufacturing",
+        "PA3",
+        "5",
+        "1",
+        "N/A",
+        "Engineering"
+    ],
+    [
+        "PLTW Engineering Design and Development",
+        "PA6",
+        "5",
+        "1",
+        "N/A",
+        "Engineering"
+    ],
+    [
+        "Introduction to Aviation and Aerospace A",
+        "V140",
+        "5",
+        "1",
+        "N/A",
+        "Aviation"
+    ],
+    [
+        "Introduction to Aviation and Aerospace B",
+        "V141",
+        "5",
+        "1",
+        "V140",
+        "Aviation"
+    ],
+    [
+        "Aerodynamics",
+        "V142",
+        "5",
+        "1",
+        "N/A",
+        "Aviation"
+    ],
+    [
+        "Principles of Flight",
+        "V145",
+        "5",
+        "1",
+        "N/A",
+        "Aviation"
+    ],
+    [
+        "Aviation Weather",
+        "V153",
+        "5",
+        "1",
+        "V142&V145",
+        "Aviation"
+    ],
+    [
+        "Advanced Flight",
+        "V154",
+        "5",
+        "1",
+        "V142&V145",
+        "Aviation"
+    ],
+    [
+        "Introduction to Health Science",
+        "V408",
+        "5",
+        "1",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Capstone: Coding A",
+        "V76",
+        "5",
+        "1",
+        "D78",
+        "Computer Science"
+    ],
+    [
+        "Capstone: Coding B",
+        "V78",
+        "5",
+        "1",
+        "V76",
+        "Computer Science"
+    ],
+    [
+        "Office Assistant",
+        "X22",
+        "5",
+        "1",
+        "Placement by permission of appropriate office staff or teacher",
+        "Miscellaneous"
+    ],
+    [
+        "Technology Assistant",
+        "X25",
+        "5",
+        "1",
+        "N/A",
+        "Miscellaneous"
+    ],
+    [
+        "Academic Assistant",
+        "X32",
+        "5",
+        "1",
+        "N/A",
+        "Miscellaneous"
+    ],
+    [
+        "Student Council",
+        "X61",
+        "5",
+        "1",
+        "N/A",
+        "Miscellaneous"
+    ],
+    [
+        "Physical Science",
+        "S10",
+        "10",
+        "2",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Earth Space Geophysical",
+        "S16",
+        "10",
+        "2",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Advanced Physical Science",
+        "S20",
+        "10",
+        "2",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Biology",
+        "S31",
+        "10",
+        "2",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Marine Biology",
+        "S36",
+        "10",
+        "2",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Advanced Biology",
+        "S37",
+        "10",
+        "2",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Chemistry Advanced",
+        "S51",
+        "10",
+        "2",
+        "S10/S20",
+        "Science"
+    ],
+    [
+        "Anatomy & Physiology Advanced",
+        "S52",
+        "10",
+        "2",
+        "N/A",
+        "Science"
+    ],
+    [
+        "Physics Advanced",
+        "S63",
+        "10",
+        "2",
+        "M31/M41/S10",
+        "Science"
+    ],
+    [
+        "AP Chemistry",
+        "S66",
+        "10",
+        "2",
+        "M51/M55",
+        "Science"
+    ],
+    [
+        "AP Biology",
+        "S68",
+        "10",
+        "2",
+        "S31/S37",
+        "Science"
+    ],
+    [
+        "AP Environmental Science",
+        "S69",
+        "10",
+        "2",
+        "M31/S10/S31",
+        "Science"
+    ],
+    [
+        "AP Physics C",
+        "S70",
+        "10",
+        "2",
+        "M61/M65",
+        "Science"
+    ],
+    [
+        "Science Research Seminar",
+        "S98",
+        "10",
+        "2",
+        "S10/S20/S31/S37",
+        "Science"
+    ],
+    [
+        "Understanding Diversity",
+        "C72",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "US History",
+        "T21",
+        "10",
+        "2",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "US Government",
+        "T37",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "AP US History",
+        "T38",
+        "10",
+        "2",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "World History",
+        "T41",
+        "10",
+        "2",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "AP World History",
+        "T54",
+        "10",
+        "2",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "World Geography",
+        "T60",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "Current World Affairs",
+        "T66",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "AP Human Geography",
+        "T68",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "Economics",
+        "T74",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "Psychology",
+        "T80",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "AP Psychology",
+        "T81",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "Sociology",
+        "T84",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "AP European History",
+        "T85",
+        "10",
+        "2",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "AP US Government and Politics",
+        "T87",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "Principles of Criminal Law",
+        "V105",
+        "5",
+        "1",
+        "N/A",
+        "Social Studies"
+    ],
+    [
+        "Digital Art and Design 1",
+        "A110",
+        "5",
+        "1",
+        "N/A",
+        "Art"
+    ],
+    [
+        "Digital Art and Design 2",
+        "A111",
+        "5",
+        "1",
+        "A110",
+        "Art"
+    ],
+    [
+        "Digital Art and Design 3",
+        "A112",
+        "5",
+        "1",
+        "A111",
+        "Art"
+    ],
+    [
+        "Drawing and Painting 1",
+        "A41",
+        "5",
+        "1",
+        "N/A",
+        "Art"
+    ],
+    [
+        "Drawing and Painting 2",
+        "A42",
+        "5",
+        "1",
+        "A41",
+        "Art"
+    ],
+    [
+        "Drawing and Painting 3",
+        "A43",
+        "5",
+        "1",
+        "A42",
+        "Art"
+    ],
+    [
+        "Drawing and Painting 4",
+        "A44",
+        "5",
+        "1",
+        "A43",
+        "Art"
+    ],
+    [
+        "Pottery and Sculpture 1",
+        "A61",
+        "5",
+        "1",
+        "N/A",
+        "Art"
+    ],
+    [
+        "Pottery and Sculpture 2",
+        "A62",
+        "5",
+        "1",
+        "A61",
+        "Art"
+    ],
+    [
+        "Pottery and Sculpture 3",
+        "A63",
+        "5",
+        "1",
+        "A62",
+        "Art"
+    ],
+    [
+        "Pottery and Sculpture 4",
+        "A64",
+        "5",
+        "1",
+        "A63",
+        "Art"
+    ],
+    [
+        "Photography 1",
+        "A71",
+        "5",
+        "1",
+        "N/A",
+        "Art"
+    ],
+    [
+        "Photography 2",
+        "A72",
+        "5",
+        "1",
+        "A71",
+        "Art"
+    ],
+    [
+        "Photography 3",
+        "A73",
+        "5",
+        "1",
+        "A72",
+        "Art"
+    ],
+    [
+        "Photography 4",
+        "A74",
+        "5",
+        "1",
+        "A73",
+        "Art"
+    ],
+    [
+        "Portfolio Arts 1",
+        "A80",
+        "5",
+        "1",
+        "A42/A56/A62/A72",
+        "Art"
+    ],
+    [
+        "Portfolio Arts 2",
+        "A82",
+        "5",
+        "1",
+        "Highly Succesful Completion of 2 Years of any art course",
+        "Art"
+    ],
+    [
+        "Art of Animation",
+        "A93",
+        "5",
+        "1",
+        "N/A",
+        "Art"
+    ],
+    [
+        "American Sign Language 1",
+        "F98",
+        "10",
+        "2",
+        "N/A",
+        "World Language"
+    ],
+    [
+        "American Sign Language 2",
+        "F99",
+        "10",
+        "2",
+        "F98",
+        "World Language"
+    ],
+    [
+        "American Sign Language 3",
+        "F104",
+        "10",
+        "2",
+        "F99",
+        "World Language"
+    ],
+    [
+        "American Sign Language 4",
+        "F105",
+        "10",
+        "2",
+        "F104",
+        "World Language"
+    ],
+    [
+        "French 1",
+        "F11",
+        "10",
+        "2",
+        "N/A",
+        "World Language"
+    ],
+    [
+        "French 2",
+        "F12",
+        "10",
+        "2",
+        "F11",
+        "World Language"
+    ],
+    [
+        "French 3",
+        "F13",
+        "10",
+        "2",
+        "F12",
+        "World Language"
+    ],
+    [
+        "French 4",
+        "F19",
+        "10",
+        "2",
+        "F13",
+        "World Language"
+    ],
+    [
+        "AP French",
+        "F26",
+        "10",
+        "2",
+        "N/A",
+        "World Language"
+    ],
+    [
+        "German 1",
+        "F31",
+        "10",
+        "2",
+        "N/A",
+        "World Language"
+    ],
+    [
+        "German 2",
+        "F32",
+        "10",
+        "2",
+        "F31",
+        "World Language"
+    ],
+    [
+        "German 3",
+        "F33",
+        "10",
+        "2",
+        "F32",
+        "World Language"
+    ],
+    [
+        "German 4",
+        "F39",
+        "10",
+        "2",
+        "F33",
+        "World Language"
+    ],
+    [
+        "AP German",
+        "F46",
+        "10",
+        "2",
+        "N/A",
+        "World Language"
+    ],
+    [
+        "German 3 Advanced",
+        "F47",
+        "10",
+        "2",
+        "F31",
+        "World Language"
+    ],
+    [
+        "Spanish 1",
+        "F71",
+        "10",
+        "2",
+        "N/A",
+        "World Language"
+    ],
+    [
+        "Spanish 2",
+        "F72",
+        "10",
+        "2",
+        "F71",
+        "World Language"
+    ],
+    [
+        "Spanish 3",
+        "F73",
+        "10",
+        "2",
+        "F72",
+        "World Language"
+    ],
+    [
+        "Spanish 4",
+        "F79",
+        "10",
+        "2",
+        "F73",
+        "World Language"
+    ],
+    [
+        "AP Spanish 5",
+        "F85",
+        "10",
+        "2",
+        "F79",
+        "World Language"
+    ],
+    [
+        "Spanish Conversation and Composition",
+        "F88",
+        "10",
+        "2",
+        "N/A",
+        "World Language"
+    ]
+]
