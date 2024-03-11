@@ -13,7 +13,7 @@ sheet = client.open_by_key(sheet_id)
 values_list = sheet.sheet1.get_all_values()
 json_data = json.dumps(values_list, indent= 4)
 
-outfile_path = "/Users/parth/MohiCoursePlannerRepos/CoursePlanner/src/app/API/sheets_values.json" 
+outfile_path = "src/app/details/sheets_values.json"
 
 with open(outfile_path, "w") as output_file:
     output_file.write(json_data)
