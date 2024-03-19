@@ -11,12 +11,19 @@ sheet_id = "1uP9MF0Jf2FhqxcEToxJ014O2GpBNNhk04paK_6n4n7k"
 sheet = client.open_by_key(sheet_id)
 
 values_list = sheet.sheet1.get_all_values()
-json_data = json.dumps(values_list, indent= 4)
 
-outfile_path = "src/app/details/sheets_values.json"
 
+headers = values_list[0]
+
+formatted_data = []
+for row in values_list[1:]:
+    formatted_row = {}
+    for i, value in enumerate(row):
+        formatted_row[headers[i]] = value
+    formatted_data.append(formatted_row)
+
+outfile_path = "src/assets/sheets_values.json"  
 with open(outfile_path, "w") as output_file:
-    output_file.write(json_data)
+    json.dump(formatted_data, output_file, indent=4)
 
-print(values_list)
-
+print(formatted_data)
