@@ -13,11 +13,6 @@ type classContents = {
   Subject : string;
 };
 
-export const CLASSES: classContents[] = [
-  {Classname :"Calculus",Code :"1",Credits: "5",Length: "2",Prereq: "none",Subject: "math"},
-  {Classname :"Calculus1",Code :"1",Credits: "5",Length: "2",Prereq: "none",Subject: "math"},
-  {Classname :"Calculus2",Code :"1",Credits: "5",Length: "2",Prereq: "none",Subject: "math"},
-];
 
 @Component({
   selector: 'app-details',
@@ -29,11 +24,7 @@ export const CLASSES: classContents[] = [
 
 
 export class DetailsComponent{
- 
-  
-  obj : classContents[] = data;
-
-  classes = this.obj;
+  classes : classContents[] = data;
 
   filteredClass:classContents[] = this.classes;
 
@@ -52,6 +43,7 @@ export class DetailsComponent{
   resetPage() : void{
     window.location.reload();
   }
+
   filterResults(text: string) {
     if (!text) {
       this.filteredClass = this.classes;
