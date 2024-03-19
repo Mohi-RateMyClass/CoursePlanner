@@ -1,1490 +1,1482 @@
 [
-    [
-        "Classname",
-        "Code",
-        "Credits",
-        "Length",
-        "Prereq",
-        "Subject"
-    ],
-    [
-        "Intro to Entrepreneurship",
-        "B04",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "Principles of Marketing",
-        "B105",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "HSB Principles of Business",
-        "B33",
-        "10",
-        "2",
-        "N/A",
-        "Business"
-    ],
-    [
-        "HSB Principles of Marketing A",
-        "B35",
-        "10",
-        "2",
-        "N/A",
-        "Business"
-    ],
-    [
-        "HSB Principles of Finance",
-        "B37",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "HSB Principles of Management",
-        "B38",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "HSB Business Strategies",
-        "B39",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "Business Marketing Essentials",
-        "B41",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "Legal Environments of Business",
-        "B44",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "Strategic Marketing",
-        "B82",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "HSB Economics",
-        "B87",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "HSB Principles of Marketing B",
-        "B88",
-        "5",
-        "1",
-        "B35",
-        "Business"
-    ],
-    [
-        "HSB Business Marketing Internship",
-        "B89",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "Entrepreneurial Operations",
-        "B92",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "Marketing For The Entrepreneur",
-        "B96",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "AP Macroeconomics",
-        "T75",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "AP Microeconomics",
-        "T77",
-        "5",
-        "1",
-        "N/A",
-        "Business"
-    ],
-    [
-        "Coding 1 A",
-        "D77",
-        "5",
-        "1",
-        "N/A",
-        "Computer Science"
-    ],
-    [
-        "AP Computer Science A",
-        "D78",
-        "10",
-        "2",
-        "N/A",
-        "Computer Science"
-    ],
-    [
-        "Cybersecurity",
-        "D79",
-        "5",
-        "1",
-        "N/A",
-        "Computer Science"
-    ],
-    [
-        "Web Designing Foundations",
-        "D87",
-        "5",
-        "1",
-        "N/A",
-        "Computer Science"
-    ],
-    [
-        "AP Computer Science Principles",
-        "D93/D94",
-        "10",
-        "2",
-        "N/A",
-        "Computer Science"
-    ],
-    [
-        "Culinary Essentials 1",
-        "H20",
-        "5",
-        "1",
-        "N/A",
-        "Food"
-    ],
-    [
-        "Culinary Essentials 2",
-        "H21",
-        "5",
-        "1",
-        "N/A",
-        "Food"
-    ],
-    [
-        "Culinary Nutrition",
-        "H25",
-        "5",
-        "1",
-        "N/A",
-        "Food"
-    ],
-    [
-        "Interpersonal Relationships",
-        "H50",
-        "5",
-        "1",
-        "N/A",
-        "Health"
-    ],
-    [
-        "Life Management",
-        "H54",
-        "5",
-        "1",
-        "N/A",
-        "Health"
-    ],
-    [
-        "Teen Choices",
-        "H74",
-        "5",
-        "1",
-        "N/A",
-        "Health"
-    ],
-    [
-        "Issues in Health",
-        "G50",
-        "5",
-        "1",
-        "N/A",
-        "Health"
-    ],
-    [
-        "Wilderness First Aid",
-        "V132",
-        "5",
-        "1",
-        "N/A",
-        "Health"
-    ],
-    [
-        "9th Grade English Language Arts",
-        "L08",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Senior Literature Composition and Communication",
-        "L100",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "9th Grade English Language Arts Advanced",
-        "L11",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "10th Grade English Language Arts Advanced",
-        "L16",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Creative Writing",
-        "L19",
-        "5",
-        "1",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "11th Grade English Language Arts",
-        "L20",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "10th Grade English Language Arts",
-        "L27",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Public Speaking",
-        "L34",
-        "5",
-        "1",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Theatre 1",
-        "L35",
-        "5",
-        "1",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Theatre 2",
-        "L36",
-        "5",
-        "1",
-        "L35",
-        "Language Arts"
-    ],
-    [
-        "Video and Film Production",
-        "L46",
-        "5",
-        "1",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Video and Film Production 2",
-        "L48",
-        "5",
-        "1",
-        "L46",
-        "Language Arts"
-    ],
-    [
-        "Reading Workshop",
-        "L50",
-        "5",
-        "1",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Philosophy through Film and Literature",
-        "L60",
-        "5",
-        "1",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Broadcast Journalism 1",
-        "L61",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Broadcast Journalism 2",
-        "L62",
-        "10",
-        "2",
-        "L61",
-        "Language Arts"
-    ],
-    [
-        "Broadcast Journalism 3",
-        "L63",
-        "10",
-        "2",
-        "L62",
-        "Language Arts"
-    ],
-    [
-        "AP English Language and Composition",
-        "L77",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Mythology",
-        "L80",
-        "5",
-        "1",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "AP Literature and Composition",
-        "L88",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Yearbook 1",
-        "LE7",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Yearbook 2",
-        "LE11",
-        "10",
-        "2",
-        "LE7",
-        "Language Arts"
-    ],
-    [
-        "Yearbook 3",
-        "LE12",
-        "10",
-        "2",
-        "LE11",
-        "Language Arts"
-    ],
-    [
-        "Newspaper 1",
-        "LE2",
-        "10",
-        "2",
-        "N/A",
-        "Language Arts"
-    ],
-    [
-        "Newspaper 2",
-        "LE4",
-        "10",
-        "2",
-        "LE2",
-        "Language Arts"
-    ],
-    [
-        "Newspaper 3",
-        "LE6",
-        "10",
-        "2",
-        "LE4",
-        "Language Arts"
-    ],
-    [
-        "Music Theory 1",
-        "N31",
-        "10",
-        "2",
-        "N/A",
-        "Music"
-    ],
-    [
-        "AP Music Theory",
-        "N33",
-        "10",
-        "2",
-        "N/A",
-        "Music"
-    ],
-    [
-        "Guitar 1",
-        "N41",
-        "5",
-        "1",
-        "N/A",
-        "Music"
-    ],
-    [
-        "Guitar 2",
-        "N42",
-        "5",
-        "1",
-        "N41",
-        "Music"
-    ],
-    [
-        "Soprano/Alto/Tenor/Bass Choir",
-        "N54",
-        "10",
-        "2",
-        "N/A",
-        "Music"
-    ],
-    [
-        "Soprano/Alto Choir",
-        "N56",
-        "10",
-        "2",
-        "N/A",
-        "Music"
-    ],
-    [
-        "Concert Choir",
-        "N60",
-        "5",
-        "2",
-        "Recommendation",
-        "Music"
-    ],
-    [
-        "Select Soprano/Alto Choir",
-        "N62",
-        "10",
-        "2",
-        "Recommendation",
-        "Music"
-    ],
-    [
-        "Select Soprano/Alto/Tenor/Bass Choir",
-        "N64",
-        "10",
-        "2",
-        "Audition or Instructor's Consent",
-        "Music"
-    ],
-    [
-        "Soprano/Alto Show/Jazz Choir",
-        "N67",
-        "10",
-        "2",
-        "Recommendation",
-        "Music"
-    ],
-    [
-        "Show Choir",
-        "N68",
-        "10",
-        "2",
-        "Recommendation",
-        "Music"
-    ],
-    [
-        "Band Level 1",
-        "N71",
-        "10",
-        "2",
-        "At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
-        "Music"
-    ],
-    [
-        "Band Level 2",
-        "N72",
-        "10",
-        "2",
-        "N71/At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
-        "Music"
-    ],
-    [
-        "Band Level 3",
-        "N73",
-        "10",
-        "2",
-        "N72/At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
-        "Music"
-    ],
-    [
-        "Jazz Band 1",
-        "N75",
-        "10",
-        "2",
-        "N/A",
-        "Music"
-    ],
-    [
-        "Jazz Band 2",
-        "N76",
-        "10",
-        "2",
-        "N75/At least 3 years of study of a jazz band instrument of approval of instructor",
-        "Music"
-    ],
-    [
-        "Jazz Band 3",
-        "N77",
-        "10",
-        "2",
-        "N76/Appropriate experience in playing in a jazz band or permission of instructor",
-        "Music"
-    ],
-    [
-        "Orchestra Level 1",
-        "N81",
-        "10",
-        "2",
-        "N/A",
-        "Music"
-    ],
-    [
-        "Chamber Orchestra",
-        "N86",
-        "10",
-        "2",
-        "Appropriate playing level on an orchestra stringed instrument and approval of the orchestra teacher",
-        "Music"
-    ],
-    [
-        "Algebra 1",
-        "M31",
-        "10",
-        "2",
-        "N/A",
-        "Mathematics"
-    ],
-    [
-        "Problem Solving",
-        "M39",
-        "5",
-        "1",
-        "N/A",
-        "Mathematics"
-    ],
-    [
-        "Geometry",
-        "M41",
-        "10",
-        "2",
-        "M31/M35",
-        "Mathematics"
-    ],
-    [
-        "Geometry Advanced",
-        "M43",
-        "10",
-        "2",
-        "M31/M35",
-        "Mathematics"
-    ],
-    [
-        "Algebra 2",
-        "M51",
-        "10",
-        "2",
-        "M41/M43",
-        "Mathematics"
-    ],
-    [
-        "Algebra 2 Advanced",
-        "M55",
-        "10",
-        "2",
-        "M41/M43",
-        "Mathematics"
-    ],
-    [
-        "Discrete Math",
-        "M58",
-        "5",
-        "1",
-        "N/A",
-        "Mathematics"
-    ],
-    [
-        "Pre-Calculus",
-        "M61",
-        "10",
-        "2",
-        "M51/M55",
-        "Mathematics"
-    ],
-    [
-        "AP Pre-Calculus",
-        "M71",
-        "10",
-        "2",
-        "M51/M55",
-        "Mathematics"
-    ],
-    [
-        "AP Calculus AB",
-        "M65",
-        "10",
-        "2",
-        "M61/M71",
-        "Mathematics"
-    ],
-    [
-        "AP Calculus BC",
-        "M66",
-        "10",
-        "2",
-        "M61/M71",
-        "Mathematics"
-    ],
-    [
-        "Statistics",
-        "M67",
-        "5",
-        "1",
-        "N/A",
-        "Mathematics"
-    ],
-    [
-        "AP Statistics",
-        "M69",
-        "10",
-        "2",
-        "M51/M55",
-        "Mathematics"
-    ],
-    [
-        "Calculus 2",
-        "M87",
-        "5",
-        "1",
-        "M66",
-        "Mathematics"
-    ],
-    [
-        "Calculus 3",
-        "M88",
-        "5",
-        "1",
-        "M87",
-        "Mathematics"
-    ],
-    [
-        "Wellness in Action",
-        "P20",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Fitness",
-        "P23",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Weight Training 1",
-        "P24",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Weight Training 2",
-        "P25",
-        "5",
-        "1",
-        "P24",
-        "Physical Education"
-    ],
-    [
-        "Training for Performance",
-        "P27",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Bowling and Recreational Games",
-        "P30",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Yoga",
-        "P32",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Aerobic Walking",
-        "P44",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Racquet Sports",
-        "P54",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Team Sports",
-        "P70",
-        "5",
-        "1",
-        "N/A",
-        "Physical Education"
-    ],
-    [
-        "Introduction to Engineering Design",
-        "PA1",
-        "5",
-        "1",
-        "N/A",
-        "Engineering"
-    ],
-    [
-        "PLTW Computer Integrated Manufacturing",
-        "PA3",
-        "5",
-        "1",
-        "N/A",
-        "Engineering"
-    ],
-    [
-        "PLTW Engineering Design and Development",
-        "PA6",
-        "5",
-        "1",
-        "N/A",
-        "Engineering"
-    ],
-    [
-        "Introduction to Aviation and Aerospace A",
-        "V140",
-        "5",
-        "1",
-        "N/A",
-        "Aviation"
-    ],
-    [
-        "Introduction to Aviation and Aerospace B",
-        "V141",
-        "5",
-        "1",
-        "V140",
-        "Aviation"
-    ],
-    [
-        "Aerodynamics",
-        "V142",
-        "5",
-        "1",
-        "N/A",
-        "Aviation"
-    ],
-    [
-        "Principles of Flight",
-        "V145",
-        "5",
-        "1",
-        "N/A",
-        "Aviation"
-    ],
-    [
-        "Aviation Weather",
-        "V153",
-        "5",
-        "1",
-        "V142&V145",
-        "Aviation"
-    ],
-    [
-        "Advanced Flight",
-        "V154",
-        "5",
-        "1",
-        "V142&V145",
-        "Aviation"
-    ],
-    [
-        "Introduction to Health Science",
-        "V408",
-        "5",
-        "1",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Capstone: Coding A",
-        "V76",
-        "5",
-        "1",
-        "D78",
-        "Computer Science"
-    ],
-    [
-        "Capstone: Coding B",
-        "V78",
-        "5",
-        "1",
-        "V76",
-        "Computer Science"
-    ],
-    [
-        "Office Assistant",
-        "X22",
-        "5",
-        "1",
-        "Placement by permission of appropriate office staff or teacher",
-        "Miscellaneous"
-    ],
-    [
-        "Technology Assistant",
-        "X25",
-        "5",
-        "1",
-        "N/A",
-        "Miscellaneous"
-    ],
-    [
-        "Academic Assistant",
-        "X32",
-        "5",
-        "1",
-        "N/A",
-        "Miscellaneous"
-    ],
-    [
-        "Student Council",
-        "X61",
-        "5",
-        "1",
-        "N/A",
-        "Miscellaneous"
-    ],
-    [
-        "Physical Science",
-        "S10",
-        "10",
-        "2",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Earth Space Geophysical",
-        "S16",
-        "10",
-        "2",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Advanced Physical Science",
-        "S20",
-        "10",
-        "2",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Biology",
-        "S31",
-        "10",
-        "2",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Marine Biology",
-        "S36",
-        "10",
-        "2",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Advanced Biology",
-        "S37",
-        "10",
-        "2",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Chemistry Advanced",
-        "S51",
-        "10",
-        "2",
-        "S10/S20",
-        "Science"
-    ],
-    [
-        "Anatomy & Physiology Advanced",
-        "S52",
-        "10",
-        "2",
-        "N/A",
-        "Science"
-    ],
-    [
-        "Physics Advanced",
-        "S63",
-        "10",
-        "2",
-        "M31/M41/S10",
-        "Science"
-    ],
-    [
-        "AP Chemistry",
-        "S66",
-        "10",
-        "2",
-        "M51/M55",
-        "Science"
-    ],
-    [
-        "AP Biology",
-        "S68",
-        "10",
-        "2",
-        "S31/S37",
-        "Science"
-    ],
-    [
-        "AP Environmental Science",
-        "S69",
-        "10",
-        "2",
-        "M31/S10/S31",
-        "Science"
-    ],
-    [
-        "AP Physics C",
-        "S70",
-        "10",
-        "2",
-        "M61/M65",
-        "Science"
-    ],
-    [
-        "Science Research Seminar",
-        "S98",
-        "10",
-        "2",
-        "S10/S20/S31/S37",
-        "Science"
-    ],
-    [
-        "Understanding Diversity",
-        "C72",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "US History",
-        "T21",
-        "10",
-        "2",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "US Government",
-        "T37",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "AP US History",
-        "T38",
-        "10",
-        "2",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "World History",
-        "T41",
-        "10",
-        "2",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "AP World History",
-        "T54",
-        "10",
-        "2",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "World Geography",
-        "T60",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "Current World Affairs",
-        "T66",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "AP Human Geography",
-        "T68",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "Economics",
-        "T74",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "Psychology",
-        "T80",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "AP Psychology",
-        "T81",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "Sociology",
-        "T84",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "AP European History",
-        "T85",
-        "10",
-        "2",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "AP US Government and Politics",
-        "T87",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "Principles of Criminal Law",
-        "V105",
-        "5",
-        "1",
-        "N/A",
-        "Social Studies"
-    ],
-    [
-        "Digital Art and Design 1",
-        "A110",
-        "5",
-        "1",
-        "N/A",
-        "Art"
-    ],
-    [
-        "Digital Art and Design 2",
-        "A111",
-        "5",
-        "1",
-        "A110",
-        "Art"
-    ],
-    [
-        "Digital Art and Design 3",
-        "A112",
-        "5",
-        "1",
-        "A111",
-        "Art"
-    ],
-    [
-        "Drawing and Painting 1",
-        "A41",
-        "5",
-        "1",
-        "N/A",
-        "Art"
-    ],
-    [
-        "Drawing and Painting 2",
-        "A42",
-        "5",
-        "1",
-        "A41",
-        "Art"
-    ],
-    [
-        "Drawing and Painting 3",
-        "A43",
-        "5",
-        "1",
-        "A42",
-        "Art"
-    ],
-    [
-        "Drawing and Painting 4",
-        "A44",
-        "5",
-        "1",
-        "A43",
-        "Art"
-    ],
-    [
-        "Pottery and Sculpture 1",
-        "A61",
-        "5",
-        "1",
-        "N/A",
-        "Art"
-    ],
-    [
-        "Pottery and Sculpture 2",
-        "A62",
-        "5",
-        "1",
-        "A61",
-        "Art"
-    ],
-    [
-        "Pottery and Sculpture 3",
-        "A63",
-        "5",
-        "1",
-        "A62",
-        "Art"
-    ],
-    [
-        "Pottery and Sculpture 4",
-        "A64",
-        "5",
-        "1",
-        "A63",
-        "Art"
-    ],
-    [
-        "Photography 1",
-        "A71",
-        "5",
-        "1",
-        "N/A",
-        "Art"
-    ],
-    [
-        "Photography 2",
-        "A72",
-        "5",
-        "1",
-        "A71",
-        "Art"
-    ],
-    [
-        "Photography 3",
-        "A73",
-        "5",
-        "1",
-        "A72",
-        "Art"
-    ],
-    [
-        "Photography 4",
-        "A74",
-        "5",
-        "1",
-        "A73",
-        "Art"
-    ],
-    [
-        "Portfolio Arts 1",
-        "A80",
-        "5",
-        "1",
-        "A42/A56/A62/A72",
-        "Art"
-    ],
-    [
-        "Portfolio Arts 2",
-        "A82",
-        "5",
-        "1",
-        "Highly Succesful Completion of 2 Years of any art course",
-        "Art"
-    ],
-    [
-        "Art of Animation",
-        "A93",
-        "5",
-        "1",
-        "N/A",
-        "Art"
-    ],
-    [
-        "American Sign Language 1",
-        "F98",
-        "10",
-        "2",
-        "N/A",
-        "World Language"
-    ],
-    [
-        "American Sign Language 2",
-        "F99",
-        "10",
-        "2",
-        "F98",
-        "World Language"
-    ],
-    [
-        "American Sign Language 3",
-        "F104",
-        "10",
-        "2",
-        "F99",
-        "World Language"
-    ],
-    [
-        "American Sign Language 4",
-        "F105",
-        "10",
-        "2",
-        "F104",
-        "World Language"
-    ],
-    [
-        "French 1",
-        "F11",
-        "10",
-        "2",
-        "N/A",
-        "World Language"
-    ],
-    [
-        "French 2",
-        "F12",
-        "10",
-        "2",
-        "F11",
-        "World Language"
-    ],
-    [
-        "French 3",
-        "F13",
-        "10",
-        "2",
-        "F12",
-        "World Language"
-    ],
-    [
-        "French 4",
-        "F19",
-        "10",
-        "2",
-        "F13",
-        "World Language"
-    ],
-    [
-        "AP French",
-        "F26",
-        "10",
-        "2",
-        "N/A",
-        "World Language"
-    ],
-    [
-        "German 1",
-        "F31",
-        "10",
-        "2",
-        "N/A",
-        "World Language"
-    ],
-    [
-        "German 2",
-        "F32",
-        "10",
-        "2",
-        "F31",
-        "World Language"
-    ],
-    [
-        "German 3",
-        "F33",
-        "10",
-        "2",
-        "F32",
-        "World Language"
-    ],
-    [
-        "German 4",
-        "F39",
-        "10",
-        "2",
-        "F33",
-        "World Language"
-    ],
-    [
-        "AP German",
-        "F46",
-        "10",
-        "2",
-        "N/A",
-        "World Language"
-    ],
-    [
-        "German 3 Advanced",
-        "F47",
-        "10",
-        "2",
-        "F31",
-        "World Language"
-    ],
-    [
-        "Spanish 1",
-        "F71",
-        "10",
-        "2",
-        "N/A",
-        "World Language"
-    ],
-    [
-        "Spanish 2",
-        "F72",
-        "10",
-        "2",
-        "F71",
-        "World Language"
-    ],
-    [
-        "Spanish 3",
-        "F73",
-        "10",
-        "2",
-        "F72",
-        "World Language"
-    ],
-    [
-        "Spanish 4",
-        "F79",
-        "10",
-        "2",
-        "F73",
-        "World Language"
-    ],
-    [
-        "AP Spanish 5",
-        "F85",
-        "10",
-        "2",
-        "F79",
-        "World Language"
-    ],
-    [
-        "Spanish Conversation and Composition",
-        "F88",
-        "10",
-        "2",
-        "N/A",
-        "World Language"
-    ]
+    {
+        "Classname": "Intro to Entrepreneurship",
+        "Code": "B04",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "Principles of Marketing",
+        "Code": "B105",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Principles of Business",
+        "Code": "B33",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Principles of Marketing A",
+        "Code": "B35",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Principles of Finance",
+        "Code": "B37",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Principles of Management",
+        "Code": "B38",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Business Strategies",
+        "Code": "B39",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "Business Marketing Essentials",
+        "Code": "B41",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "Legal Environments of Business",
+        "Code": "B44",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "Strategic Marketing",
+        "Code": "B82",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Economics",
+        "Code": "B87",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Principles of Marketing B",
+        "Code": "B88",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "B35",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "HSB Business Marketing Internship",
+        "Code": "B89",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "Entrepreneurial Operations",
+        "Code": "B92",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "Marketing For The Entrepreneur",
+        "Code": "B96",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "AP Macroeconomics",
+        "Code": "T75",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "AP Microeconomics",
+        "Code": "T77",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Business"
+    },
+    {
+        "Classname": "Coding 1 A",
+        "Code": "D77",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Computer Science"
+    },
+    {
+        "Classname": "AP Computer Science A",
+        "Code": "D78",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Computer Science"
+    },
+    {
+        "Classname": "Cybersecurity",
+        "Code": "D79",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Computer Science"
+    },
+    {
+        "Classname": "Web Designing Foundations",
+        "Code": "D87",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Computer Science"
+    },
+    {
+        "Classname": "AP Computer Science Principles",
+        "Code": "D93/D94",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Computer Science"
+    },
+    {
+        "Classname": "Culinary Essentials 1",
+        "Code": "H20",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Food"
+    },
+    {
+        "Classname": "Culinary Essentials 2",
+        "Code": "H21",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Food"
+    },
+    {
+        "Classname": "Culinary Nutrition",
+        "Code": "H25",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Food"
+    },
+    {
+        "Classname": "Interpersonal Relationships",
+        "Code": "H50",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Health"
+    },
+    {
+        "Classname": "Life Management",
+        "Code": "H54",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Health"
+    },
+    {
+        "Classname": "Teen Choices",
+        "Code": "H74",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Health"
+    },
+    {
+        "Classname": "Issues in Health",
+        "Code": "G50",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Health"
+    },
+    {
+        "Classname": "Wilderness First Aid",
+        "Code": "V132",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Health"
+    },
+    {
+        "Classname": "9th Grade English Language Arts",
+        "Code": "L08",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Senior Literature Composition and Communication",
+        "Code": "L100",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "9th Grade English Language Arts Advanced",
+        "Code": "L11",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "10th Grade English Language Arts Advanced",
+        "Code": "L16",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Creative Writing",
+        "Code": "L19",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "11th Grade English Language Arts",
+        "Code": "L20",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "10th Grade English Language Arts",
+        "Code": "L27",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Public Speaking",
+        "Code": "L34",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Theatre 1",
+        "Code": "L35",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Theatre 2",
+        "Code": "L36",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "L35",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Video and Film Production",
+        "Code": "L46",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Video and Film Production 2",
+        "Code": "L48",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "L46",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Reading Workshop",
+        "Code": "L50",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Philosophy through Film and Literature",
+        "Code": "L60",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Broadcast Journalism 1",
+        "Code": "L61",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Broadcast Journalism 2",
+        "Code": "L62",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "L61",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Broadcast Journalism 3",
+        "Code": "L63",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "L62",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "AP English Language and Composition",
+        "Code": "L77",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Mythology",
+        "Code": "L80",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "AP Literature and Composition",
+        "Code": "L88",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Yearbook 1",
+        "Code": "LE7",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Yearbook 2",
+        "Code": "LE11",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "LE7",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Yearbook 3",
+        "Code": "LE12",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "LE11",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Newspaper 1",
+        "Code": "LE2",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Newspaper 2",
+        "Code": "LE4",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "LE2",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Newspaper 3",
+        "Code": "LE6",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "LE4",
+        "Subject": "Language Arts"
+    },
+    {
+        "Classname": "Music Theory 1",
+        "Code": "N31",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "AP Music Theory",
+        "Code": "N33",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Guitar 1",
+        "Code": "N41",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Guitar 2",
+        "Code": "N42",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N41",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Soprano/Alto/Tenor/Bass Choir",
+        "Code": "N54",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Soprano/Alto Choir",
+        "Code": "N56",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Concert Choir",
+        "Code": "N60",
+        "Credits": "5",
+        "Length": "2",
+        "Prereq": "Recommendation",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Select Soprano/Alto Choir",
+        "Code": "N62",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "Recommendation",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Select Soprano/Alto/Tenor/Bass Choir",
+        "Code": "N64",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "Audition or Instructor's Consent",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Soprano/Alto Show/Jazz Choir",
+        "Code": "N67",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "Recommendation",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Show Choir",
+        "Code": "N68",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "Recommendation",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Band Level 1",
+        "Code": "N71",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Band Level 2",
+        "Code": "N72",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N71/At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Band Level 3",
+        "Code": "N73",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N72/At least 3 years of study of a band instrument or appropriate experience or permission of instructor",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Jazz Band 1",
+        "Code": "N75",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Jazz Band 2",
+        "Code": "N76",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N75/At least 3 years of study of a jazz band instrument of approval of instructor",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Jazz Band 3",
+        "Code": "N77",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N76/Appropriate experience in playing in a jazz band or permission of instructor",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Orchestra Level 1",
+        "Code": "N81",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Chamber Orchestra",
+        "Code": "N86",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "Appropriate playing level on an orchestra stringed instrument and approval of the orchestra teacher",
+        "Subject": "Music"
+    },
+    {
+        "Classname": "Algebra 1",
+        "Code": "M31",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Problem Solving",
+        "Code": "M39",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Geometry",
+        "Code": "M41",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M31/M35",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Geometry Advanced",
+        "Code": "M43",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M31/M35",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Algebra 2",
+        "Code": "M51",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M41/M43",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Algebra 2 Advanced",
+        "Code": "M55",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M41/M43",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Discrete Math",
+        "Code": "M58",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Pre-Calculus",
+        "Code": "M61",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M51/M55",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "AP Pre-Calculus",
+        "Code": "M71",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M51/M55",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "AP Calculus AB",
+        "Code": "M65",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M61/M71",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "AP Calculus BC",
+        "Code": "M66",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M61/M71",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Statistics",
+        "Code": "M67",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "AP Statistics",
+        "Code": "M69",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M51/M55",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Calculus 2",
+        "Code": "M87",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "M66",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Calculus 3",
+        "Code": "M88",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "M87",
+        "Subject": "Mathematics"
+    },
+    {
+        "Classname": "Wellness in Action",
+        "Code": "P20",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Fitness",
+        "Code": "P23",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Weight Training 1",
+        "Code": "P24",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Weight Training 2",
+        "Code": "P25",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "P24",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Training for Performance",
+        "Code": "P27",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Bowling and Recreational Games",
+        "Code": "P30",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Yoga",
+        "Code": "P32",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Aerobic Walking",
+        "Code": "P44",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Racquet Sports",
+        "Code": "P54",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Team Sports",
+        "Code": "P70",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Physical Education"
+    },
+    {
+        "Classname": "Introduction to Engineering Design",
+        "Code": "PA1",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Engineering"
+    },
+    {
+        "Classname": "PLTW Computer Integrated Manufacturing",
+        "Code": "PA3",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Engineering"
+    },
+    {
+        "Classname": "PLTW Engineering Design and Development",
+        "Code": "PA6",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Engineering"
+    },
+    {
+        "Classname": "Introduction to Aviation and Aerospace A",
+        "Code": "V140",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Aviation"
+    },
+    {
+        "Classname": "Introduction to Aviation and Aerospace B",
+        "Code": "V141",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "V140",
+        "Subject": "Aviation"
+    },
+    {
+        "Classname": "Aerodynamics",
+        "Code": "V142",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Aviation"
+    },
+    {
+        "Classname": "Principles of Flight",
+        "Code": "V145",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Aviation"
+    },
+    {
+        "Classname": "Aviation Weather",
+        "Code": "V153",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "V142&V145",
+        "Subject": "Aviation"
+    },
+    {
+        "Classname": "Advanced Flight",
+        "Code": "V154",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "V142&V145",
+        "Subject": "Aviation"
+    },
+    {
+        "Classname": "Introduction to Health Science",
+        "Code": "V408",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Capstone: Coding A",
+        "Code": "V76",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "D78",
+        "Subject": "Computer Science"
+    },
+    {
+        "Classname": "Capstone: Coding B",
+        "Code": "V78",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "V76",
+        "Subject": "Computer Science"
+    },
+    {
+        "Classname": "Office Assistant",
+        "Code": "X22",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "Placement by permission of appropriate office staff or teacher",
+        "Subject": "Miscellaneous"
+    },
+    {
+        "Classname": "Technology Assistant",
+        "Code": "X25",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Miscellaneous"
+    },
+    {
+        "Classname": "Academic Assistant",
+        "Code": "X32",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Miscellaneous"
+    },
+    {
+        "Classname": "Student Council",
+        "Code": "X61",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Miscellaneous"
+    },
+    {
+        "Classname": "Physical Science",
+        "Code": "S10",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Earth Space Geophysical",
+        "Code": "S16",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Advanced Physical Science",
+        "Code": "S20",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Biology",
+        "Code": "S31",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Marine Biology",
+        "Code": "S36",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Advanced Biology",
+        "Code": "S37",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Chemistry Advanced",
+        "Code": "S51",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "S10/S20",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Anatomy & Physiology Advanced",
+        "Code": "S52",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Physics Advanced",
+        "Code": "S63",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M31/M41/S10",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "AP Chemistry",
+        "Code": "S66",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M51/M55",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "AP Biology",
+        "Code": "S68",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "S31/S37",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "AP Environmental Science",
+        "Code": "S69",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M31/S10/S31",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "AP Physics C",
+        "Code": "S70",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "M61/M65",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Science Research Seminar",
+        "Code": "S98",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "S10/S20/S31/S37",
+        "Subject": "Science"
+    },
+    {
+        "Classname": "Understanding Diversity",
+        "Code": "C72",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "US History",
+        "Code": "T21",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "US Government",
+        "Code": "T37",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "AP US History",
+        "Code": "T38",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "World History",
+        "Code": "T41",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "AP World History",
+        "Code": "T54",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "World Geography",
+        "Code": "T60",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "Current World Affairs",
+        "Code": "T66",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "AP Human Geography",
+        "Code": "T68",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "Economics",
+        "Code": "T74",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "Psychology",
+        "Code": "T80",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "AP Psychology",
+        "Code": "T81",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "Sociology",
+        "Code": "T84",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "AP European History",
+        "Code": "T85",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "AP US Government and Politics",
+        "Code": "T87",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "Principles of Criminal Law",
+        "Code": "V105",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Social Studies"
+    },
+    {
+        "Classname": "Digital Art and Design 1",
+        "Code": "A110",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Digital Art and Design 2",
+        "Code": "A111",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A110",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Digital Art and Design 3",
+        "Code": "A112",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A111",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Drawing and Painting 1",
+        "Code": "A41",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Drawing and Painting 2",
+        "Code": "A42",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A41",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Drawing and Painting 3",
+        "Code": "A43",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A42",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Drawing and Painting 4",
+        "Code": "A44",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A43",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Pottery and Sculpture 1",
+        "Code": "A61",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Pottery and Sculpture 2",
+        "Code": "A62",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A61",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Pottery and Sculpture 3",
+        "Code": "A63",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A62",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Pottery and Sculpture 4",
+        "Code": "A64",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A63",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Photography 1",
+        "Code": "A71",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Photography 2",
+        "Code": "A72",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A71",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Photography 3",
+        "Code": "A73",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A72",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Photography 4",
+        "Code": "A74",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A73",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Portfolio Arts 1",
+        "Code": "A80",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "A42/A56/A62/A72",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Portfolio Arts 2",
+        "Code": "A82",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "Highly Succesful Completion of 2 Years of any art course",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "Art of Animation",
+        "Code": "A93",
+        "Credits": "5",
+        "Length": "1",
+        "Prereq": "N/A",
+        "Subject": "Art"
+    },
+    {
+        "Classname": "American Sign Language 1",
+        "Code": "F98",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "American Sign Language 2",
+        "Code": "F99",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F98",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "American Sign Language 3",
+        "Code": "F104",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F99",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "American Sign Language 4",
+        "Code": "F105",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F104",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "French 1",
+        "Code": "F11",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "French 2",
+        "Code": "F12",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F11",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "French 3",
+        "Code": "F13",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F12",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "French 4",
+        "Code": "F19",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F13",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "AP French",
+        "Code": "F26",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "German 1",
+        "Code": "F31",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "German 2",
+        "Code": "F32",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F31",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "German 3",
+        "Code": "F33",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F32",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "German 4",
+        "Code": "F39",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F33",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "AP German",
+        "Code": "F46",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "German 3 Advanced",
+        "Code": "F47",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F31",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "Spanish 1",
+        "Code": "F71",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "Spanish 2",
+        "Code": "F72",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F71",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "Spanish 3",
+        "Code": "F73",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F72",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "Spanish 4",
+        "Code": "F79",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F73",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "AP Spanish 5",
+        "Code": "F85",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "F79",
+        "Subject": "World Language"
+    },
+    {
+        "Classname": "Spanish Conversation and Composition",
+        "Code": "F88",
+        "Credits": "10",
+        "Length": "2",
+        "Prereq": "N/A",
+        "Subject": "World Language"
+    }
 ]

@@ -22,7 +22,7 @@ for row in values_list[1:]:
         formatted_row[headers[i]] = value
     formatted_data.append(formatted_row)
 
-outfile_path = "src/assets/sheets_values.json"  
+outfile_path = "src/app/details/sheets_values.json"  
 with open(outfile_path, "w") as output_file:
     json.dump(formatted_data, output_file, indent=4)
 
