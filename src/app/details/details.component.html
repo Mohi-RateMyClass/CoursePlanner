@@ -7,7 +7,7 @@
     <form>
     <p *ngFor="let class of filteredClass" (click)="onSelect(class)">
       
-              <span class="badge">{{class.name}}</span> 
+              <span class="badge">{{class.Classname}}</span> 
                 
     </p>
     </form>
@@ -17,11 +17,11 @@
   <label>
     <div id = "Reviews" style="display:none">
     <p (click) = "resetPage()"> Go Back</p>
-    <h2>{{selectedClass.name | uppercase}} Details</h2>
-    <p>Subject: {{selectedClass.subject}}</p>
-    <p>Class Code: {{selectedClass.code}}</p>
-    <p>Credits: {{selectedClass.credits}}</p>
-    <p>Prerequisite: {{selectedClass.prereq}}</p>
+    <h2>{{selectedClass.Classname | uppercase}} Details</h2>
+    <p>Subject: {{selectedClass.Subject}}</p>
+    <p>Class Code: {{selectedClass.Code}}</p>
+    <p>Credits: {{selectedClass.Credits}}</p>
+    <p>Prerequisite: {{selectedClass.Prereq}}</p>
   </div>
   </label>
 

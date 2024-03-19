@@ -2,20 +2,21 @@ import { Component, Inject, Injectable, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import {ChangeDetectorRef } from '@angular/core';
+import data from "./sheets_values.json"
 
 type classContents = {
-  name: string;
-  code: string;
-  credits: number;
-  length: number;
-  prereq : string;
-  subject : string;
+  Classname: string;
+  Code: string;
+  Credits: string;
+  Length: string;
+  Prereq : string;
+  Subject : string;
 };
 
 export const CLASSES: classContents[] = [
-  {name :"Calculus",code :"1",credits: 5,length: 2,prereq: "none",subject: "math"},
-  {name :"Calculus1",code :"1",credits: 5,length: 2,prereq: "none",subject: "math"},
-  {name :"Calculus2",code :"1",credits: 5,length: 2,prereq: "none",subject: "math"},
+  {Classname :"Calculus",Code :"1",Credits: "5",Length: "2",Prereq: "none",Subject: "math"},
+  {Classname :"Calculus1",Code :"1",Credits: "5",Length: "2",Prereq: "none",Subject: "math"},
+  {Classname :"Calculus2",Code :"1",Credits: "5",Length: "2",Prereq: "none",Subject: "math"},
 ];
 
 @Component({
@@ -28,13 +29,16 @@ export const CLASSES: classContents[] = [
 
 
 export class DetailsComponent{
+ 
   
-  classes = CLASSES;
+  obj : classContents[] = data;
+
+  classes = this.obj;
 
   filteredClass:classContents[] = this.classes;
 
-  selectedClass : classContents  = {name: "No class selected",code: 
-"0",credits: 0,length: 0, prereq: "none", subject: "math"};
+  selectedClass : classContents  = {Classname: "No class selected",Code: 
+"0",Credits: "0",Length: "0", Prereq: "none", Subject: "math"};
   
 
   onSelect(currentClass: classContents): void {
@@ -55,7 +59,7 @@ export class DetailsComponent{
     }
   
     this.filteredClass = this.classes.filter(
-      classContents => classContents?.name.toLowerCase().includes(text.toLowerCase())
+      classContents => classContents?.Classname.toLowerCase().includes(text.toLowerCase())
     );
   }
 }
