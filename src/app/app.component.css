@@ -15,7 +15,7 @@ body, html {
   
   /* Styling the header bar */
   .header-bar {
-    background-color: black;
+    background-color: grey;
     color: white;
     padding: 10px 20px;
     display: flex;
@@ -25,5 +25,5 @@ body, html {
   }
   
 
-  *{background-color: #ddc980;}
+
   

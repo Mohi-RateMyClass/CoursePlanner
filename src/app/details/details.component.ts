@@ -3,21 +3,24 @@ import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import {ChangeDetectorRef } from '@angular/core';
 import data from "./sheets_values.json"
+import { RouterOutlet } from '@angular/router';
+import { RouterModule } from '@angular/router';
 
 type classContents = {
-  Classname: string;
+  Name: string;
   Code: string;
+  Weighted: string;
   Credits: string;
-  Length: string;
-  Prereq : string;
-  Subject : string;
+  Semesters : string;
+  Prerequisites : string;
+  Summary : string;
 };
 
 
 @Component({
   selector: 'app-details',
   standalone: true,
-  imports: [CommonModule,FormsModule],
+  imports: [CommonModule,FormsModule, RouterOutlet,RouterModule],
   templateUrl: './details.component.html',
   styleUrl: './details.component.css'
 })
@@ -28,8 +31,8 @@ export class DetailsComponent{
 
   filteredClass:classContents[] = this.classes;
 
-  selectedClass : classContents  = {Classname: "No class selected",Code: 
-"0",Credits: "0",Length: "0", Prereq: "none", Subject: "math"};
+  selectedClass : classContents  = {Name: "No class selected",Code: 
+"0",Weighted: "No", Credits: "0",Semesters: "0", Prerequisites: "none", Summary: "no"};
   
 
   onSelect(currentClass: classContents): void {
@@ -51,7 +54,7 @@ export class DetailsComponent{
     }
   
     this.filteredClass = this.classes.filter(
-      classContents => classContents?.Classname.toLowerCase().includes(text.toLowerCase())
+      classContents => classContents?.Name.toLowerCase().includes(text.toLowerCase())
     );
   }
 }

@@ -1,13 +1,20 @@
-<div id = "ClassList">
+
+<div class="header-bar">
+  <a routerLink="" routerLinkActive="active"><img src="./assets/home.png" height="40" width="40"></a>
   <input type="text" placeholder="Filter by class" #filter>
   <button class="primary" type="button" (click)="filterResults(filter.value)">Search</button>
+  <a routerLink="/pathway" routerLinkActive="active">Go to course pathway</a>
+</div>
+
+<div id = "ClassList">
+  
 
   <h2>Classes</h2>
 
     <form>
     <p *ngFor="let class of filteredClass" (click)="onSelect(class)">
       
-              <span class="badge">{{class.Classname}}</span> 
+              <span class="badge">{{class.Name}}</span> 
                 
     </p>
     </form>
@@ -17,11 +24,12 @@
   <label>
     <div id = "Reviews" style="display:none">
     <p (click) = "resetPage()"> Go Back</p>
-    <h2>{{selectedClass.Classname | uppercase}} Details</h2>
-    <p>Subject: {{selectedClass.Subject}}</p>
+    <h2>{{selectedClass.Name | uppercase}} Details</h2>
     <p>Class Code: {{selectedClass.Code}}</p>
     <p>Credits: {{selectedClass.Credits}}</p>
-    <p>Prerequisite: {{selectedClass.Prereq}}</p>
+    <p>Prerequisite: {{selectedClass.Prerequisites}}</p>
+    <p>Weighted : {{selectedClass.Weighted}}</p>
+    <p>Summary: {{selectedClass.Summary}}</p>
   </div>
   </label>
 

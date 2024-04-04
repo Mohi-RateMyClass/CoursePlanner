@@ -8,8 +8,33 @@ p{
 input{
     text-align: center;
 }
-*{background-color: #ddc980;}
 
 #ClassList{
     text-align: center;
 }
+/* styles.css (global styles) or component-specific styles file */
+
+/* Resetting default margins and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Resetting margins and padding for all elements */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Ensures padding and border are included in element's total width and height */
+  }
+  
+  /* Styling the header bar */
+  .header-bar {
+    background-color: grey;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%; /* Ensures the header bar stretches across the entire viewport */
+  }
+  

@@ -1,13 +1,17 @@
 <body>
-<div id = "list">
-  <input type="text" placeholder="Filter by class" #filter>
+  <div class="header-bar">
+    <a routerLink="" routerLinkActive="active"><img src="./assets/home.png" height="40" width="40"></a>
+    <a routerLink="/detail" routerLinkActive = "active"> <img src = "./assets/search.png" height = "40" width= "40"></a>
+    <input type="text" placeholder="Filter by class" #filter>
   <button class="primary" type="button" (click)="filterResults(filter.value)">Search</button>
-
+  </div>
+  
+<div id = "list">
 <h2>Subjects</h2>
     <form>
     <p *ngFor="let s of filteredSubject" (click)="onSelect(s)">
       
-              <span class="badge">{{s.name}}</span> 
+              <span class="badge">{{s.Name}}</span> 
                 
     </p>
     </form>
@@ -17,7 +21,7 @@
 <label>
     
     <p (click) = "resetPage()"> Go Back</p>
-    <h2>{{selectedSubject.name | uppercase}} Details</h2>
+    <h2>{{selectedSubject.Name | uppercase}} Details</h2>
     
 
     <table id = "table"></table>

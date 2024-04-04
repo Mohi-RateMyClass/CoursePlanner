@@ -2,32 +2,38 @@ import { Component, Inject, Injectable, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
 import {ChangeDetectorRef } from '@angular/core';
+import data from "./coursepathways.json"
+import { RouterOutlet } from '@angular/router';
+import { RouterModule } from '@angular/router';
 
 type subjectThing = {
-  name : string,
-  pathway: string[][]
+  Name : string;
+  Freshman: string;
+  Sophomore : string;
+  Junior : string;
+  Senior : string;
 };
 
-export const SUBJECTS: subjectThing[] = [
-  {name: "Coding",pathway: [["Freshman","AP Computer Science Principles"],["Sophmore","AP Computer Science A"],["Junior","Coding Captsone"],["Senior","Slack Off"]]}
-]
+
 
 @Component({
   selector: 'app-courepathway',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule,RouterModule,RouterOutlet],
   templateUrl: './courepathway.component.html',
   styleUrl: './courepathway.component.css'
 })
 export class CourepathwayComponent {
   
+  pathways = data;
+
   table: HTMLTableElement;
   private thead;
   private tbody;
 
-  subject = SUBJECTS;
+  subject :subjectThing[] = data;
   filteredSubject: subjectThing[] = this.subject;
-  selectedSubject: subjectThing = {name: " ",pathway: [[],[]]};
+  selectedSubject: subjectThing = {Name: " ",Freshman : "",Sophomore: "", Junior: " ", Senior: " "};
 
   onSelect(currentSubject: subjectThing): void {
     var T = document.getElementById("selClass");
@@ -40,14 +46,14 @@ export class CourepathwayComponent {
     this.table = document.getElementById('table') as HTMLTableElement;
     this.tbody = this.table.createTBody();
 
-    for(let i = 0; i < this.selectedSubject.pathway.length;i++){
-      var row = this.tbody.insertRow();
+    // for(let i = 0; i < this.selectedSubject.pathway.length;i++){
+    //   var row = this.tbody.insertRow();
 
-      for(let j = 0; j < this.selectedSubject.pathway[0].length;j++){
-        var cell = row.insertCell();
-        cell.innerHTML = this.selectedSubject.pathway[i][j];  
-      }
-    }
+    //   for(let j = 0; j < this.selectedSubject.pathway[0].length;j++){
+    //     var cell = row.insertCell();
+    //     cell.innerHTML = this.selectedSubject.pathway[i][j];  
+    //   }
+    // }
     
   }
   
@@ -61,7 +67,7 @@ export class CourepathwayComponent {
     }
   
     this.filteredSubject = this.subject.filter(
-      subjectThing => subjectThing?.name.toLowerCase().includes(text.toLowerCase())
+      subjectThing => subjectThing?.Name.toLowerCase().includes(text.toLowerCase())
     );
   }
 }

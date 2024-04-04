@@ -1,123 +1,23 @@
-{
-    "Coding": [
-        {
-            "Freshman": "AP Computer Science Principles",
-            "Sophomore": "AP Computer Science A",
-            "Junior": "Career Capstone",
-            "Senior": "College Level Course"
-        },
-        {
-            "Freshman": "Language Arts - 9th",
-            "Sophomore": "Language Arts - 10th",
-            "Junior": "Language Arts - 11th",
-            "Senior": "Language Arts - 12th"
-        },
-        {
-            "Freshman": "Math",
-            "Sophomore": "Math",
-            "Junior": "Math",
-            "Senior": "Math"
-        },
-        {
-            "Freshman": "9th SS",
-            "Sophomore": "10th SS",
-            "Junior": "11th SS",
-            "Senior": "12th SS"
-        },
-        {
-            "Freshman": "Filler",
-            "Sophomore": "Filler",
-            "Junior": "Filler",
-            "Senior": "Filler"
-        },
-        {
-            "Freshman": "Filler",
-            "Sophomore": "Filler",
-            "Junior": "Filler",
-            "Senior": "Filler"
-        },
-        {
-            "Freshman": "Filler",
-            "Sophomore": "Filler",
-            "Junior": "Filler",
-            "Senior": "Filler"
-        }
-    ],
-    "Cybersecurity": [
-        {
-            "Freshman": "Cybersecurity 1",
-            "Sophomore": "Cybersecurity 2",
-            "Junior": "Dual Enrollment/Independent Study",
-            "Senior": "Dual Enrollment/Independent Study"
-        },
-        {
-            "Freshman": "Coyote Tech Squad",
-            "Sophomore": "Coyote Tech Squad",
-            "Junior": "Coyote Tech Squad",
-            "Senior": "Coyote Tech Squad"
-        },
-        {
-            "Freshman": "Math",
-            "Sophomore": "Math",
-            "Junior": "Math",
-            "Senior": "Math"
-        },
-        {
-            "Freshman": "9th SS",
-            "Sophomore": "10th SS",
-            "Junior": "11th SS",
-            "Senior": "12th SS"
-        },
-        {
-            "Freshman": "Language Arts - 9th",
-            "Sophomore": "Language Arts - 10th",
-            "Junior": "Language Arts - 11th",
-            "Senior": "Language Arts - 12th"
-        },
-        {
-            "Freshman": "Filler",
-            "Sophomore": "Filler",
-            "Junior": "Filler",
-            "Senior": "Filler"
-        },
-        {
-            "Freshman": "Filler",
-            "Sophomore": "Filler",
-            "Junior": "Filler",
-            "Senior": "Filler"
-        }
-    ],
-    "Digital Art": [
-        {
-            "Freshman": "Math",
-            "Sophomore": "Math",
-            "Junior": "Math",
-            "Senior": "Math"
-        },
-        {
-            "Freshman": "9th SS",
-            "Sophomore": "10th SS",
-            "Junior": "11th SS",
-            "Senior": "12th SS"
-        },
-        {
-            "Freshman": "Language Arts - 9th",
-            "Sophomore": "Language Arts - 10th",
-            "Junior": "Language Arts - 11th",
-            "Senior": "Language Arts - 12th"
-        },
-        {
-            "Freshman": "Filler",
-            "Sophomore": "Filler",
-            "Junior": "Filler",
-            "Senior": "Filler"
-        },
-        {
-            "Freshman": "Filler",
-            "Sophomore": "Filler",
-            "Junior": "Filler",
-            "Senior": "Filler"
-        }
-    ],
-    "Sheet3": []
-}
+[
+    {
+        "Name": "Coding",
+        "Freshman": "AP Computer Science Principles, Language Arts - 9th, Math, 9th SS, Filler, Filler, Filler",
+        "Sophomore": "AP Computer Science A, Language Arts - 10th, Math, 10th SS, Filler, Filler, Filler",
+        "Junior": "Career Capstone, Language Arts - 11th, Math, 11th SS, Filler, Filler, Filler",
+        "Senior": "College Level Course, Language Arts - 12th, Math, 12th SS, Filler, Filler, Filler"
+    },
+    {
+        "Name": "Cybersecurity",
+        "Freshman": "Cybersecurity 1, Coyote Tech Squad, Math, 9th SS, Language Arts - 9th, Filler, Filler",
+        "Sophomore": "Cybersecurity 2, Coyote Tech Squad, Math, 10th SS, Language Arts - 10th, Filler, Filler",
+        "Junior": "Dual Enrollment/Independent Study, Coyote Tech Squad, Math, 11th SS, Language Arts - 11th, Filler, Filler",
+        "Senior": "Dual Enrollment/Independent Study, Coyote Tech Squad, Math, 12th SS, Language Arts - 12th, Filler, Filler"
+    },
+    {
+        "Name": "Digital Art",
+        "Freshman": "Math, 9th SS, Language Arts - 9th, Filler, Filler, , ",
+        "Sophomore": "Math, 10th SS, Language Arts - 10th, Filler, Filler, , ",
+        "Junior": "Math, 11th SS, Language Arts - 11th, Filler, Filler, , ",
+        "Senior": "Math, 12th SS, Language Arts - 12th, Filler, Filler, , "
+    }
+]
