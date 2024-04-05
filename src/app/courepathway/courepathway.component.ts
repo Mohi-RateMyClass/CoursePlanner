@@ -8,13 +8,11 @@ import { RouterModule } from '@angular/router';
 
 type subjectThing = {
   Name : string;
-  Freshman: string;
-  Sophomore : string;
-  Junior : string;
-  Senior : string;
+  Freshman: string[];
+  Sophomore : string[];
+  Junior : string[];
+  Senior : string[];
 };
-
-
 
 @Component({
   selector: 'app-courepathway',
@@ -25,15 +23,27 @@ type subjectThing = {
 })
 export class CourepathwayComponent {
   
-  pathways = data;
 
   table: HTMLTableElement;
   private thead;
   private tbody;
 
-  subject :subjectThing[] = data;
+  classes = data.map(item => ({
+    Name: item.Name,
+    Freshman: item.Freshman.split(',').map(course => course.trim()),
+    Sophomore: item.Sophomore.split(',').map(course => course.trim()),
+    Junior: item.Junior.split(',').map(course => course.trim()),
+    Senior: item.Senior.split(',').map(course => course.trim())
+  }));
+
+  subject :subjectThing[] = this.classes;
+
+  
+  
+
+  
   filteredSubject: subjectThing[] = this.subject;
-  selectedSubject: subjectThing = {Name: " ",Freshman : "",Sophomore: "", Junior: " ", Senior: " "};
+  selectedSubject: subjectThing = {Name: " ",Freshman : [""],Sophomore: [""], Junior: [" "], Senior: [" "]};
 
   onSelect(currentSubject: subjectThing): void {
     var T = document.getElementById("selClass");
@@ -46,15 +56,26 @@ export class CourepathwayComponent {
     this.table = document.getElementById('table') as HTMLTableElement;
     this.tbody = this.table.createTBody();
 
-    // for(let i = 0; i < this.selectedSubject.pathway.length;i++){
-    //   var row = this.tbody.insertRow();
-
-    //   for(let j = 0; j < this.selectedSubject.pathway[0].length;j++){
-    //     var cell = row.insertCell();
-    //     cell.innerHTML = this.selectedSubject.pathway[i][j];  
-    //   }
-    // }
-    
+      var row = this.tbody.insertRow();
+      var cell1 = row.insertCell();
+      cell1.innerHTML = "Freshman";
+      cell1 = row.insertCell();
+      cell1.innerHTML = "Sophomore";
+      cell1 = row.insertCell();
+      cell1.innerHTML = "Junior";
+      cell1 = row.insertCell();
+      cell1.innerHTML = "Senior";
+      for(let i = 0; i < 7; i ++){
+        var row = this.tbody.insertRow();
+          var cell = row.insertCell();
+          cell.innerHTML = this.selectedSubject.Freshman[i];
+          cell = row.insertCell();
+          cell.innerHTML = this.selectedSubject.Sophomore[i];
+          cell = row.insertCell();
+          cell.innerHTML = this.selectedSubject.Junior[i];
+          cell = row.insertCell();
+          cell.innerHTML = this.selectedSubject.Senior[i];
+      }
   }
   
   resetPage() : void{
