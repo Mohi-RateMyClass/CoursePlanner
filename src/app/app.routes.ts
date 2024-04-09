@@ -3,6 +3,7 @@ import { Component } from '@angular/core';
 import { DetailsComponent } from './details/details.component';
 import { AppComponent } from './app.component';
 import { CourepathwayComponent } from './courepathway/courepathway.component';
+import { ReviewComponent } from './review/review.component';
 
 const routeConfig: Routes = [
     {
@@ -19,6 +20,10 @@ const routeConfig: Routes = [
         path: 'pathway',
         component: CourepathwayComponent,
         title: 'Course Pathways'
+    },
+    {
+        path: 'review',
+        component : ReviewComponent,
     }
 
 ];
