@@ -1,4 +1,3 @@
-
 body {
   font-family: 'Roboto', Arial, sans-serif;
 }
@@ -20,7 +19,7 @@ body {
 
 .searchBar {
   width: 100%;
-  display: flex;
+
   flex-direction: row;
   align-items: center;
 }
