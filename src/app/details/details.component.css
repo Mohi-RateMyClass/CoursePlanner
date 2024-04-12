@@ -1,6 +1,50 @@
+
+#rating{
+display:block;
+align-self: center;
+background: rgb(255, 156, 156);
+height: 64px;
+line-height: 36px;
+margin-bottom: 8px;
+padding: 14px 10px;
+width: 72px;
+font-size: 32px;
+font-family: Poppins, sans-serif;
+font-weight: 900;
+}
+#count{
+ position: relative;
+ left : 4px;
+ bottom : 13px;
+ text-align: left;
+ font-family: Poppins, sans-serif;
+
+}
+
+#classname{
+  text-align: center;
+  font-weight: 900;
+  font-size: 64;
+  position: relative;
+  left: 90px;
+  bottom: 110px;
+  font-family: Poppins, sans-serif;
+
+}
+#moare{
+  text-align: center;
+  font-weight: 900;
+  font-size: 64;
+  position: relative;
+  left: 90px;
+  bottom: 90px; 
+  font-family: Poppins, sans-serif;
+
+}
 body {
   font-family: 'Roboto', Arial, sans-serif;
 }
+
 
 .wrapper {
   width: 100%;
@@ -73,8 +117,4 @@ body {
 
 .paragraph-container p {
   margin-top: 20px; 
-}
-
-p { 
-  text-align: center;
 }

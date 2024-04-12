@@ -17,6 +17,7 @@ type classContents = {
   Enjoyment : string;
   Difficulty : string;
   Workload : string;
+  Reviews : string;
 };
 
 
@@ -35,7 +36,7 @@ export class DetailsComponent{
   filteredClass:classContents[] = this.classes;
 
   selectedClass : classContents  = {Name: "No class selected",Code: 
-"0",Weighted: "No", Credits: "0",Semesters: "0", Prerequisites: "none", Summary: "no",Enjoyment : " ", Difficulty : " ", Workload : " "};
+"0",Weighted: "No", Credits: "0",Semesters: "0", Prerequisites: "none", Summary: "no",Enjoyment : " ", Difficulty : " ", Workload : " ",Reviews : " "};
   
 
   onSelect(currentClass: classContents): void {

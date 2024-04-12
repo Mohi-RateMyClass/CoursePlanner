@@ -147,9 +147,16 @@ body {
   <form>
   <p *ngFor="let class of filteredClass" (click)="onSelect(class)">
     
-            <span class="badge">{{class.Name}}</span> 
-              
+            <span id = "rating" class= "d">{{class.Enjoyment}}</span> 
+            <span id = "count" class= "d"><p> {{class.Reviews}} Ratings </p></span> 
+            <span id = "classname" class="badge"> {{class.Name}} <br></span> 
+            <span id = "moare" class="badge">Difficulty: {{class.Difficulty}}  </span> 
+            <span id = "moare" class="badge">Workload: {{class.Workload}}</span> 
+           
+            
+             
   </p>
+
   </form>
 
 </div>
