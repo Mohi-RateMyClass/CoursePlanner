@@ -39,6 +39,38 @@ export class DetailsComponent{
 "0",Weighted: "No", Credits: "0",Semesters: "0", Prerequisites: "none", Summary: "no",Enjoyment : " ", Difficulty : " ", Workload : " ",Reviews : " "};
   
 
+  red(rating:string){
+    var h = +rating;
+    if (h >= 7){
+      return false;
+    }else if(h > 5){
+      return false;
+    }else {
+      return true;
+    }
+  }
+  green(rating:string){
+    var h = +rating;
+    if (h >= 7){
+      return true;
+    }else if(h > 5){
+      return false;
+    }else {
+      return false;
+    }
+  }
+  yellow(rating:string){
+    var h = +rating;
+    if (h >= 7){
+      return false;
+    }else if(h > 5){
+      return true;
+    }else {
+      return false;
+    }
+  }
+
+
   onSelect(currentClass: classContents): void {
     var T = document.getElementById("Reviews");
     T.style.display = "block";  

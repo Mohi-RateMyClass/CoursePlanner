@@ -1,7 +1,12 @@
-
-#rating{
+#ClassList{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#red{
 display:block;
 align-self: center;
+text-align: center;
 background: rgb(255, 156, 156);
 height: 64px;
 line-height: 36px;
@@ -12,6 +17,34 @@ font-size: 32px;
 font-family: Poppins, sans-serif;
 font-weight: 900;
 }
+#yellow{
+  display:block;
+  align-self: center;
+  text-align: center;
+  background: rgb(250, 255, 156);
+  height: 64px;
+  line-height: 36px;
+  margin-bottom: 8px;
+  padding: 14px 10px;
+  width: 72px;
+  font-size: 32px;
+  font-family: Poppins, sans-serif;
+  font-weight: 900;
+  }
+  #green{
+    display:block;
+    align-self: center;
+    text-align: center;
+    background: rgb(156, 255, 159);
+    height: 64px;
+    line-height: 36px;
+    margin-bottom: 8px;
+    padding: 14px 10px;
+    width: 72px;
+    font-size: 32px;
+    font-family: Poppins, sans-serif;
+    font-weight: 900;
+    }
 #count{
  position: relative;
  left : 4px;

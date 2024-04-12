@@ -146,15 +146,15 @@ body {
 <div id = "ClassList">
   <form>
   <p *ngFor="let class of filteredClass" (click)="onSelect(class)">
-    
-            <span id = "rating" class= "d">{{class.Enjoyment}}</span> 
+         
+            <span id = "red" class= "d" *ngIf="red(class.Enjoyment)">{{class.Enjoyment}}</span>
+            <span id = "green" class= "d" *ngIf="green(class.Enjoyment)">{{class.Enjoyment}}</span> 
+            <span id = "yellow" class= "d" *ngIf="yellow(class.Enjoyment)">{{class.Enjoyment}}</span>  
             <span id = "count" class= "d"><p> {{class.Reviews}} Ratings </p></span> 
-            <span id = "classname" class="badge"> {{class.Name}} <br></span> 
-            <span id = "moare" class="badge">Difficulty: {{class.Difficulty}}  </span> 
-            <span id = "moare" class="badge">Workload: {{class.Workload}}</span> 
-           
+            <span id = "classname" class="d"> {{class.Name}} <br></span> 
+            <span id = "moare" class="d">Difficulty: {{class.Difficulty}}  </span> 
+            <span id = "moare" class="d">Workload: {{class.Workload}}</span>   
             
-             
   </p>
 
   </form>
