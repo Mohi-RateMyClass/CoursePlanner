@@ -155,17 +155,30 @@ body {
 </div>
 
   <label>
-    <div id = "Reviews" style="display:none">
-    <p (click) = "resetPage()"> Go Back</p>
-    <h2>{{selectedClass.Name | uppercase}} Details</h2>
-    <p>Class Code: {{selectedClass.Code}}</p>
-    <p>Credits: {{selectedClass.Credits}}</p>
-    <p>Prerequisite: {{selectedClass.Prerequisites}}</p>
-    <p>Weighted : {{selectedClass.Weighted}}</p>
-    <p>Summary: {{selectedClass.Summary}}</p>
-    <p>Enjoyment: {{selectedClass.Enjoyment}}</p>
-    <p>Difficulty: {{selectedClass.Difficulty}}</p>
-    <p>Workload: {{selectedClass.Workload}}</p>
+    <div id = "Reviews" style="display:none; width: 100%; margin-bottom: 15%;">
+
+      <p (click) = "resetPage()"> Go Back</p>
+      <h2 style="text-align: center;">{{selectedClass.Name | uppercase}} Details</h2>
+
+      <div style="width: 50%; height: 100px; float: left;"> 
+
+        <p style="text-align: justify; margin-left: 5%;  width:fill">Summary: {{selectedClass.Summary}}</p>
+
+    </div>
+
+
+    <div style="margin-left: 50%; margin-bottom: 15%; height: 100px;"> 
+      <p>Class Code: {{selectedClass.Code}}</p>
+      <p>Credits: {{selectedClass.Credits}}</p>
+      <p>Prerequisite: {{selectedClass.Prerequisites}}</p>
+      <p>Weighted : {{selectedClass.Weighted}}</p>
+      <p>Enjoyment: {{selectedClass.Enjoyment}}</p>
+      <p>Difficulty: {{selectedClass.Difficulty}}</p>
+      <p>Workload: {{selectedClass.Workload}}</p>
+    </div>
+
+
+    
   </div>
   </label>
 
