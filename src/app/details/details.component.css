@@ -5,7 +5,7 @@
   cursor: pointer; 
 }
 #grey{
-  display:block;
+  display: block;
 align-self: center;
 text-align: center;
 background: rgb(180, 180, 180);
@@ -14,7 +14,7 @@ line-height: 36px;
 margin-bottom: 8px;
 padding: 14px 10px;
 width: 72px;
-font-size: 32px;
+font-size: 27px;
 font-family: Poppins, sans-serif;
 font-weight: 900;
 }
