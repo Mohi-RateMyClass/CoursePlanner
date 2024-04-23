@@ -5,6 +5,7 @@ import {ChangeDetectorRef } from '@angular/core';
 import data from "./sheets_values.json"
 import { RouterOutlet } from '@angular/router';
 import { RouterModule } from '@angular/router';
+import data1 from "./reviews.json"
 
 type classContents = {
   Name: string;
@@ -21,6 +22,11 @@ type classContents = {
 };
 
 
+type review = {
+  Class: string;
+  Reviews: string;
+}
+
 @Component({
   selector: 'app-details',
   standalone: true,
@@ -33,10 +39,15 @@ type classContents = {
 export class DetailsComponent{
   classes : classContents[] = data;
 
+  reviews : review[] = data1;
+ 
+  writtenreview;
+  reviewList;
+
   filteredClass:classContents[] = this.classes;
 
   selectedClass : classContents  = {Name: "No class selected",Code: 
-"0",Weighted: "No", Credits: "0",Semesters: "0", Prerequisites: "none", Summary: "no",Enjoyment : " ", Difficulty : " ", Workload : " ",Reviews : " "};
+"0",Weighted: "No", Credits: "0",Semesters: "0", Prerequisites: "none", Summary: "no",Enjoyment : " ", Difficulty : " ", Workload : " ",Reviews : " ",};
   
 
   red(rating:string){
@@ -45,8 +56,18 @@ export class DetailsComponent{
       return false;
     }else if(h > 5){
       return false;
-    }else {
+    }else if (h > 0){
       return true;
+    }else{
+      return false
+    }
+  }
+  grey(rating:string){
+    var h = +rating;
+    if(h > 0){
+      return false
+    }else{
+      return true
     }
   }
   green(rating:string){
@@ -77,6 +98,14 @@ export class DetailsComponent{
     var V = document.getElementById("ClassList");
     V.style.display = "none";
     this.selectedClass = currentClass;
+    
+    for(let d of this.reviews){
+      if(d.Class ==  this.selectedClass.Name){
+        
+        this.reviewList = d.Reviews.split("|")
+        this.writtenreview = d.Reviews;
+      }
+    }
   }
   
   resetPage() : void{

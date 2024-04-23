@@ -2,6 +2,21 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  cursor: pointer; 
+}
+#grey{
+  display:block;
+align-self: center;
+text-align: center;
+background: rgb(180, 180, 180);
+height: 64px;
+line-height: 36px;
+margin-bottom: 8px;
+padding: 14px 10px;
+width: 72px;
+font-size: 32px;
+font-family: Poppins, sans-serif;
+font-weight: 900;
 }
 #red{
 display:block;
@@ -150,4 +165,8 @@ body {
 
 .paragraph-container p {
   margin-top: 20px; 
+}
+#reviewdiv{  display:block;
+  align-self: center;
+  text-align: center; 
 }

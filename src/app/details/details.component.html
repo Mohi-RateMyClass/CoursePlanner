@@ -149,11 +149,12 @@ body {
          
             <span id = "red" class= "d" *ngIf="red(class.Enjoyment)">{{class.Enjoyment}}</span>
             <span id = "green" class= "d" *ngIf="green(class.Enjoyment)">{{class.Enjoyment}}</span> 
-            <span id = "yellow" class= "d" *ngIf="yellow(class.Enjoyment)">{{class.Enjoyment}}</span>  
+            <span id = "yellow" class= "d" *ngIf="yellow(class.Enjoyment)">{{class.Enjoyment}}</span> 
+            <span id = "grey" class= "d" *ngIf="grey(class.Enjoyment)">{{class.Enjoyment}}</span>  
             <span id = "count" class= "d"><p> {{class.Reviews}} Ratings </p></span> 
             <span id = "classname" class="d"> {{class.Name}} <br></span> 
             <span id = "moare" class="d">Difficulty: {{class.Difficulty}}  </span> 
-            <span id = "moare" class="d">Workload: {{class.Workload}}</span>   
+            <span id = "moare" class="d">Workload: {{class.Workload}}</span> 
             
   </p>
 
@@ -183,9 +184,16 @@ body {
       <p>Difficulty: {{selectedClass.Difficulty}}</p>
       <p>Workload: {{selectedClass.Workload}}</p>
     </div>
+    <div id = "reviewdiv">
+    <h1>Reviews</h1>
+      <p id = "reviews" *ngFor="let review of reviewList">
+      {{review}}
+      </p>
+    </div>
+    </div>
 
 
     
-  </div>
+
   </label>
 

@@ -33,10 +33,10 @@
         "Semesters": "2",
         "Prerequisites": "N/A",
         "Summary": "English/Language Arts II (10th grade) courses usually offer a balanced focus on composition and literature. Typically, students learn about the alternate aims and audiences of written compositions by writing persuasive, critical, and creative multi-paragraph essays and compositions. Through the study of various genres of literature, students can improve their reading rate and comprehension and develop the skills to determine the author\u2019s intent and theme and to recognize the techniques used by the author to deliver his or her message.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "4",
+        "Difficulty": "6",
+        "Workload": "7",
+        "Reviews": "1"
     },
     {
         "Name": "10th English LA ADV",
@@ -85,10 +85,10 @@
         "Semesters": "2",
         "Prerequisites": "N/A",
         "Summary": "English/Language Arts IV (12th grade) courses blend composition and literature into a cohesive whole as students write critical and comparative analyses of selected literature, continuing to develop their language arts skills. Typically, students primarily write multi-paragraph essays, but they may also write one or more major research papers.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "8",
+        "Difficulty": "2",
+        "Workload": "2",
+        "Reviews": "1"
     },
     {
         "Name": "AP English Literature and Composition (12th Grade)",
@@ -281,9 +281,9 @@
         "Prerequisites": "N/A",
         "Summary": "Video and Film Production provides opportunities for students to write, produce, and edit video and film using digital SLR cameras and industry standard editing through Adobe Premiere Pro. Students are responsible for planning, handling technical equipment, and employing technical knowledge in order to create a variety of types of films including music videos, documentaries, dramas, and comedies. The final project allows students to create a longer film suitable for submission to film festivals.",
         "Enjoyment": "10",
-        "Difficulty": "1.5",
-        "Workload": "2",
-        "Reviews": "2"
+        "Difficulty": "2",
+        "Workload": "2.3",
+        "Reviews": "3"
     },
     {
         "Name": "Video & Film 2",
@@ -319,10 +319,10 @@
         "Semesters": "2",
         "Prerequisites": "Algebra I & Geometry",
         "Summary": "Algebra II course topics typically include developing an understanding of the relationships between the symbolic, graphic, tabular and verbal representations of functions; utilizing the various representations to interpret function behavior and solve equations; operations with rational and irrational expressions; factoring of rational expressions; in-depth study of linear equations and inequalities; quadratic equations; solving systems of linear and quadratic equations; graphing of constant, linear, and quadratic equations; properties of higher-degree equations; exponential functions; inverse functions; statistical modeling; modeling linear and quadratic data; and operations with rational and irrational exponents.",
-        "Enjoyment": "6",
-        "Difficulty": "4",
-        "Workload": "7",
-        "Reviews": "1"
+        "Enjoyment": "3.5",
+        "Difficulty": "6.5",
+        "Workload": "7.5",
+        "Reviews": "2"
     },
     {
         "Name": "ADV Algebra 2",
@@ -423,10 +423,10 @@
         "Semesters": "2",
         "Prerequisites": "Algebra 2",
         "Summary": "Following the College Board's suggested curriculum designed to parallel college-level statistics courses, AP Statistics courses introduce students to the major concepts and tools for collecting, analyzing, and drawing conclusions from data. Students are exposed to four broad conceptual themes: exploring data, sampling and experimentation, anticipating patterns, and statistical inference.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "4",
+        "Difficulty": "2",
+        "Workload": "4",
+        "Reviews": "1"
     },
     {
         "Name": "Discrete Math",
@@ -852,10 +852,10 @@
         "Semesters": "2",
         "Prerequisites": "N/A",
         "Summary": "Band Level 1 is a course that emphasizes the organization, preparation, and performance of a variety of band music. The yearlong course will explore both the marching and concert bands. Included in the course is the study of those basic musical and physical coordination skills for band performances. In addition, a variety of group and individual leadership programs are presented. Public performances after school hours are an integral part of the course and are required.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "4",
+        "Difficulty": "4",
+        "Workload": "4",
+        "Reviews": "1"
     },
     {
         "Name": "Band 2",
@@ -1502,10 +1502,10 @@
         "Semesters": "1",
         "Prerequisites": "Wellness in Action",
         "Summary": "The goal of Weight Training 1 is to provide a knowledge base and practical experience in physical fitness and weight training. Weight training 1 provides a baseline of knowledge for strength training that incorporates the components of fitness and strength training principles.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "10",
+        "Difficulty": "1",
+        "Workload": "1",
+        "Reviews": "1"
     },
     {
         "Name": "Bowling and Recreational Games",
@@ -1983,10 +1983,10 @@
         "Semesters": "2",
         "Prerequisites": "Spanish 1",
         "Summary": "Spanish II courses build upon skills developed in Spanish I, preparing students to communicate authentically in Spanish by interpreting (reading, listening, viewing), exchanging (speaking and listening; reading and writing), and presenting (speaking, writing) information on concrete topics. Spanish II courses introduce the relationships among the products, practices, and perspectives of Spanish-speaking cultures.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "8",
+        "Difficulty": "5",
+        "Workload": "4",
+        "Reviews": "1"
     },
     {
         "Name": "Spanish 3",
@@ -2321,10 +2321,10 @@
         "Semesters": "2",
         "Prerequisites": "N/A",
         "Summary": "Aviation is a massive industry filled with all sorts of fascinating and complex issues along with tremendous career opportunities. In this introductory course, students learn about the engineering process, problem solving, and the innovations and technological developments that have made today\u2019s aviation and aerospace industries possible. The course begins with a historical perspective from the earliest flying machines to the wide variety of modern aircraft and the integral role they play in making today\u2019s world work. Later topics cover modern aviation and aerospace technologies and consideration of the future of air and space travel. Students conduct hands-on activities including creating hot air balloons, testing airfoils, and even prototyping space capsules.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "10",
+        "Difficulty": "2",
+        "Workload": "2",
+        "Reviews": "1"
     },
     {
         "Name": "Aerodynamics",
@@ -2334,10 +2334,10 @@
         "Semesters": "1",
         "Prerequisites": "N/A",
         "Summary": "Students will begin with an exploration of the types of aircraft in use today before going on to the physics of flight. The course covers the forces of flight\u2014lift, weight, thrust, and drag\u2014in depth, including how to make key calculations. Students also consider touch on aircraft design, looking at stability, aircraft controls, and maneuvering flight. Material covered in this course is similar to concepts tested on the FAA Private Pilot and sUAS (drone) written exams. Curriculum is provided by the Aircraft Owners and Pilots Association. Prior completion of Introduction to Aviation & Aerospace A/B recommended but not required. This course is taken in the same year as Principles of Flight.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "9",
+        "Difficulty": "4",
+        "Workload": "2",
+        "Reviews": "1"
     },
     {
         "Name": "Principles of Flight",
@@ -2347,10 +2347,10 @@
         "Semesters": "1",
         "Prerequisites": "N/A",
         "Summary": "Examines the systems that make manned and unmanned aircraft work. Beginning with aircraft propulsion, students learn about the different types of engines that produce thrust to propel an aircraft or UAS. The course explores other key aircraft components, including fuel, electrical, landing gear, and environmental systems. In order to fly an aircraft safely, students learn about the flight instruments associated with each system and how to identify and troubleshoot common problems. Finally, the course considers factors that affect aircraft performance and how to determine critical operating data for aircraft. Material covered in this course is similar to concepts tested on the FAA Private Pilot and sUAS (drone) written exams. Curriculum is provided by the Aircraft Owners and Pilots Association. This course must be taken in the same year as Aerodynamics.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "9",
+        "Difficulty": "5",
+        "Workload": "3",
+        "Reviews": "1"
     },
     {
         "Name": "Aviation Weather",
@@ -2360,10 +2360,10 @@
         "Semesters": "1",
         "Prerequisites": "N/A",
         "Summary": "Covers basic theory of global circulation and the development of weather patterns with an emphasis on phenomena that are particularly hazardous for aviation. Students also learn how to access and interpret weather information intended for the flying environment. Airport markings and operations are also covered, as are pilot communication basics. Material covered in this course is similar to concepts tested on the FAA Private Pilot and sUAS (drone) written exams. Curriculum is provided by the Aircraft Owners and Pilots Association. Prior completion of Introduction to Aviation & Aerospace recommended but not required. This course is taken in the same year as Advanced Flight.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "9",
+        "Difficulty": "3",
+        "Workload": "2",
+        "Reviews": "1"
     },
     {
         "Name": "Advanced Flight",
@@ -2373,10 +2373,10 @@
         "Semesters": "1",
         "Prerequisites": "N/A",
         "Summary": "Students learn to interpret and use aeronautical charts for flight planning and navigation. The course covers airspace classes, information about special uses of airspace, and how to use basic flight planning tools. Aeromedical factors and important federal aviation regulations will be considered. Material covered in this course is similar to concepts tested on the FAA Private Pilot written exam. Curriculum is provided by the Aircraft Owners and Pilots Association. Prior completion of Introduction to Aviation & Aerospace A/B recommended but not required. This course is taken in the same year as Aviation Weather.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "10",
+        "Difficulty": "1",
+        "Workload": "1",
+        "Reviews": "1"
     },
     {
         "Name": "Introduction to Engineering Design",
