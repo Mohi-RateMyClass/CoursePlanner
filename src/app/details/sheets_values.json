@@ -85,10 +85,10 @@
         "Semesters": "2",
         "Prerequisites": "N/A",
         "Summary": "English/Language Arts IV (12th grade) courses blend composition and literature into a cohesive whole as students write critical and comparative analyses of selected literature, continuing to develop their language arts skills. Typically, students primarily write multi-paragraph essays, but they may also write one or more major research papers.",
-        "Enjoyment": "8",
-        "Difficulty": "2",
-        "Workload": "2",
-        "Reviews": "1"
+        "Enjoyment": "7",
+        "Difficulty": "2.5",
+        "Workload": "2.5",
+        "Reviews": "2"
     },
     {
         "Name": "AP English Literature and Composition (12th Grade)",
@@ -332,10 +332,10 @@
         "Semesters": "2",
         "Prerequisites": "Adv Geometry",
         "Summary": "Algebra II course topics typically include developing an understanding of the relationships between the symbolic, graphic, tabular and verbal representations of functions; utilizing the various representations to interpret function behavior and solve equations; operations with rational and irrational expressions; factoring of rational expressions; in-depth study of linear equations and inequalities; quadratic equations; solving systems of linear and quadratic equations; graphing of constant, linear, and quadratic equations; properties of higher-degree equations; exponential functions; inverse functions; statistical modeling; modeling linear and quadratic data; and operations with rational and irrational exponents. The pace of an advanced course may be faster than that of the Algebra 1 course.",
-        "Enjoyment": "8",
-        "Difficulty": "5",
-        "Workload": "8",
-        "Reviews": "1"
+        "Enjoyment": "7.5",
+        "Difficulty": "4.5",
+        "Workload": "6.5",
+        "Reviews": "2"
     },
     {
         "Name": "Geometry",
@@ -774,10 +774,10 @@
         "Semesters": "1",
         "Prerequisites": "N/A",
         "Summary": "Economics courses provide students with an overview of economics with primary emphasis on the principles of microeconomics and the U.S. economic system. These courses may also cover topics such as principles of macroeconomics, international economics, and comparative economics. Economic principles may be presented in formal theoretical contexts, applied contexts, or both.",
-        "Enjoyment": "N/A",
-        "Difficulty": "N/A",
-        "Workload": "N/A",
-        "Reviews": "0"
+        "Enjoyment": "7",
+        "Difficulty": "5",
+        "Workload": "7",
+        "Reviews": "1"
     },
     {
         "Name": "Anthropology",
@@ -1596,7 +1596,7 @@
         "Enjoyment": "8",
         "Difficulty": "1",
         "Workload": "1",
-        "Reviews": "1"
+        "Reviews": "2"
     },
     {
         "Name": "Teen Choices",
@@ -2334,10 +2334,10 @@
         "Semesters": "1",
         "Prerequisites": "N/A",
         "Summary": "Students will begin with an exploration of the types of aircraft in use today before going on to the physics of flight. The course covers the forces of flight\u2014lift, weight, thrust, and drag\u2014in depth, including how to make key calculations. Students also consider touch on aircraft design, looking at stability, aircraft controls, and maneuvering flight. Material covered in this course is similar to concepts tested on the FAA Private Pilot and sUAS (drone) written exams. Curriculum is provided by the Aircraft Owners and Pilots Association. Prior completion of Introduction to Aviation & Aerospace A/B recommended but not required. This course is taken in the same year as Principles of Flight.",
-        "Enjoyment": "9",
+        "Enjoyment": "8",
         "Difficulty": "4",
-        "Workload": "2",
-        "Reviews": "1"
+        "Workload": "4",
+        "Reviews": "2"
     },
     {
         "Name": "Principles of Flight",
