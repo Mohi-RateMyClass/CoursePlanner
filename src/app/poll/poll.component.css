@@ -10,8 +10,16 @@
     margin-bottom: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 250px;
 }
-
+#yes{
+    float: left;
+    position:relative;
+}
+#no{
+    float:right;
+    position: relative;
+}
 .question-text {
     font-weight: bold;
     color: #333;

@@ -3,16 +3,16 @@
         "Question": "Do you like MoHi?",
         "Option1": "Yes",
         "Option2": "No",
-        "ResponseAmt": "6",
-        "Response1Amt": "4",
+        "ResponseAmt": "7",
+        "Response1Amt": "5",
         "Response2Amt": "2"
     },
     {
         "Question": "Will you attend Homecoming?",
         "Option1": "Yes",
         "Option2": "No",
-        "ResponseAmt": "4",
+        "ResponseAmt": "5",
         "Response1Amt": "3",
-        "Response2Amt": "1"
+        "Response2Amt": "2"
     }
 ]
