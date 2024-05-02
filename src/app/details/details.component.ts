@@ -54,7 +54,7 @@ export class DetailsComponent{
     var h = +rating;
     if (h >= 7){
       return false;
-    }else if(h > 5){
+    }else if(h >= 4){
       return false;
     }else if (h > 0){
       return true;
@@ -74,7 +74,7 @@ export class DetailsComponent{
     var h = +rating;
     if (h >= 7){
       return true;
-    }else if(h > 5){
+    }else if(h >= 4){
       return false;
     }else {
       return false;
@@ -84,7 +84,7 @@ export class DetailsComponent{
     var h = +rating;
     if (h >= 7){
       return false;
-    }else if(h > 5){
+    }else if(h >= 4){
       return true;
     }else {
       return false;
