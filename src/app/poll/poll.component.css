@@ -27,7 +27,30 @@
     margin-bottom: 8px;
 }
 
-.option {
+.option1 {
     font-style: italic;
-    color: #007bff; /* or any color you prefer for options */
+    color: #03b53e; /* or any color you prefer for options */
+}
+.option2 {
+    font-style: italic;
+    color: #b50303; /* or any color you prefer for options */
+}
+
+.progress-bar1 {
+    position : relative;
+    top: 15px;
+    height: 10px;
+    background-color: #b50303; /* or any color you prefer for progress bars */
+    width: 1000; /* Initial width will be set dynamically */
+    margin-top: 5px;
+    border-radius: 5px;
+}
+/* Updated CSS with progress bar styles */
+.progress-bar {
+    position : relative;
+    height: 10px;
+    background-color: #03b53e; /* or any color you prefer for progress bars */
+    width: 0; /* Initial width will be set dynamically */
+    margin-top: 5px;
+    border-radius: 5px;
 }

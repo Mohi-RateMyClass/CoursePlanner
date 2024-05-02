@@ -22,5 +22,11 @@ Response2Amt : string;
 })
 export class PollComponent {
 
-data1 :pollcontainer[] = data
+data1 :pollcontainer[] = data;
+
+// Inside your component class
+calculateProgressWidth(responseAmt: string, response1Amt: string): string {
+  return ((+response1Amt / +responseAmt) * 100) + '%';
+}
+
 }

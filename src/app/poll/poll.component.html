@@ -110,21 +110,27 @@ body {
 
   <a href="">Details</a>
   <a href="/pathway">Pathways</a>
-  <a href = "/review">Reviews</a>
   <a href = "/poll">Polls</a>
-  
+  <a href = "/review">Reviews</a>
+  <a href = "/pollreview">Poll Reviews</a>
 </div>
 
 
 
-<!-- HTML -->
+<!-- Updated HTML with progress bars -->
 <div class="container">
     <div *ngFor="let d of data1" class="question">
         <div class="question-text">{{d.Question}}</div>
-        <div class="response-count">{{d.ResponseAmt}} Responses</div>
+        <div class="response-count">
+            {{d.ResponseAmt}} Responses
+            <div class="progress-bar1" [style.width]="1"></div>
+            <div class="progress-bar" [style.width]="calculateProgressWidth(d.ResponseAmt, d.Response1Amt)"></div>
+        </div>
+        
         <div class="response-options">
-            <div>{{d.Response1Amt}} say <span class="option">{{d.Option1}}</span></div>
-            <div>{{d.Response2Amt}} say <span class="option">{{d.Option2}}</span></div>
+            <div>{{d.Response1Amt}} say <span class="option1">{{d.Option1}}</span></div>
+            <div>{{d.Response2Amt}} say <span class="option2">{{d.Option2}}</span></div>
         </div>
     </div>
 </div>
+
