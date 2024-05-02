@@ -2,9 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  cursor: pointer; 
 }
-
 
 #reviews{
   display:flexbox;
@@ -34,17 +32,6 @@
   color: white;
 }
 
-/* td{
-  
-  display: flexbox;
-  background: rgb(180, 180, 180);
-  line-height: 36px;
-  margin-bottom: 8px;
-  padding: 14px 10px;
-  font-family: Poppins, sans-serif;
-  font-weight: 900;
-  
-} */
 #grey{
   display: block;
 align-self: center;
@@ -191,7 +178,16 @@ body {
   background-color: rgb(199, 182, 83); 
   padding: 5px;
 }
+.classes {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin-bottom: 50px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  height: 120px;
+  cursor: pointer; 
 
+}
 .header-banner h1 {
   margin: 0;
   color: white;
@@ -207,6 +203,7 @@ body {
 .paragraph-container p {
   margin-top: 20px; 
 }
+
 #reviewdiv{  display:block;
   align-self: center;
   text-align: center; 
