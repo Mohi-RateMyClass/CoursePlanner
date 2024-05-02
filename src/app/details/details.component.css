@@ -4,6 +4,47 @@
   align-items: center;
   cursor: pointer; 
 }
+
+
+#reviews{
+  display:flexbox;
+  background: rgb(180,180,180);
+  
+}
+.table-fill {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.table-fill td, .table-fill th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Optional: Change background color for even rows */
+.table-fill tr:nth-child(even) {
+  background-color: rgb(180,180,180);
+}
+
+/* Optional: Style header cells differently */
+.table-fill th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+/* td{
+  
+  display: flexbox;
+  background: rgb(180, 180, 180);
+  line-height: 36px;
+  margin-bottom: 8px;
+  padding: 14px 10px;
+  font-family: Poppins, sans-serif;
+  font-weight: 900;
+  
+} */
 #grey{
   display: block;
 align-self: center;
@@ -147,7 +188,7 @@ body {
 }
 
 .header-banner {
-  background-color: #a2904e; 
+  background-color: rgb(199, 182, 83); 
   padding: 5px;
 }
 

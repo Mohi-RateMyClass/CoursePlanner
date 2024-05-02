@@ -1,0 +1,18 @@
+[
+    {
+        "Question": "Do you like MoHi?",
+        "Option1": "Yes",
+        "Option2": "No",
+        "ResponseAmt": "5",
+        "Response1Amt": "3",
+        "Response2Amt": "2"
+    },
+    {
+        "Question": "Will you attend Homecoming?",
+        "Option1": "Yes",
+        "Option2": "No",
+        "ResponseAmt": "3",
+        "Response1Amt": "2",
+        "Response2Amt": "1"
+    }
+]
