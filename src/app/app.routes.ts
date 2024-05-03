@@ -6,6 +6,7 @@ import { CourepathwayComponent } from './courepathway/courepathway.component';
 import { ReviewComponent } from './review/review.component';
 import { PollComponent } from './poll/poll.component';
 import { PollreviewComponent } from './pollreview/pollreview.component';
+import { InfoComponent } from './info/info.component';
 
 const routeConfig: Routes = [
     {
@@ -30,9 +31,14 @@ const routeConfig: Routes = [
     {
         path: 'poll',
         component : PollComponent,
-    },{
+    },
+    {
         path: 'pollreview',
         component : PollreviewComponent,
+    },
+    {
+        path: 'info',
+        component: InfoComponent,
     }
 
 ];

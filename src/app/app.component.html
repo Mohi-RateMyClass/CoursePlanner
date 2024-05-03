@@ -7,7 +7,6 @@
     <style>
         /* CSS for the container */
         .top-container {
-            background-color: #f0f0f0; /* Light gray background */
             text-align: center;
         }
 
@@ -34,7 +33,9 @@
 <body>
 
 <div class="top-container">
+  <a href = "/info"><img style = "position: relative; float: left;"src = "./assets/info.png" alt='image' width="20" height = "20"/></a>
     <div class="top-content">
+     
         <span style="font-weight:bold;">{{currentDay}}</span>
         <span style="font-weight:bold;">{{timeCurrent}}</span>
         <span style="font-weight:bold;">{{currentClass}}</span>
@@ -42,9 +43,12 @@
         <span style="font-weight: bold;">{{timeRemaining}}</span>
     </div>
     
+
+
+
+
 </div>
-
 </body>
-</html>
 
+</html>
 <router-outlet></router-outlet>

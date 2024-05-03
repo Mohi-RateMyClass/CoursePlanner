@@ -107,7 +107,7 @@ export class AppComponent implements OnInit,OnDestroy{
                 this.currentClass = classTime.name;
                 const timeRemainingMinutes = classTime.end - currentTime;
                 const timeRemainingSeconds = (classTime.end - currentTime) % 60;
-                this.timeRemaining = `${timeRemainingMinutes} minutes and ${59 -seconds } seconds`;
+                this.timeRemaining = `${timeRemainingMinutes - 1 } minutes and ${59 -seconds } seconds`;
 
                 break;
             }

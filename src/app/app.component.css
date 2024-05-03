@@ -15,8 +15,6 @@ body, html {
   
   /* Styling the header bar */
   .header-bar {
-    background-color: grey;
-    color: white;
     padding: 10px 20px;
     display: flex;
     justify-content: space-between;
