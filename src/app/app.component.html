@@ -1,1 +1,50 @@
-  <router-outlet></router-outlet>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top of the Page</title>
+    <style>
+        /* CSS for the container */
+        .top-container {
+            background-color: #f0f0f0; /* Light gray background */
+            text-align: center;
+        }
+
+        /* CSS for the content inside the container */
+        .top-content, .top-buttons {
+            display: inline-block; /* Display elements side by side */
+            vertical-align: top; /* Align elements to the top */
+        }
+
+        /* CSS for the content inside the container */
+        .top-content {
+            font-size: 18px;
+            color: #333; /* Dark gray text color */
+            margin-bottom: 10px; /* Spacing between each line */
+        }
+
+        
+        /* CSS for spacing between spans */
+        .top-content span {
+            margin-right: 10px; /* Right margin between spans */
+        }
+    </style>
+</head>
+<body>
+
+<div class="top-container">
+    <div class="top-content">
+        <span style="font-weight:bold;">{{currentDay}}</span>
+        <span style="font-weight:bold;">{{timeCurrent}}</span>
+        <span style="font-weight:bold;">{{currentClass}}</span>
+        <span style="font-weight:bold;">Time Remaining:</span>
+        <span style="font-weight: bold;">{{timeRemaining}}</span>
+    </div>
+    
+</div>
+
+</body>
+</html>
+
+<router-outlet></router-outlet>

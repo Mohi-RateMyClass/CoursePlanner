@@ -1,5 +1,4 @@
-import { Component } from '@angular/core';
-
+import { Component, OnInit, OnDestroy  } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { RouterModule } from '@angular/router';
 @Component({
@@ -10,5 +9,5 @@ import { RouterModule } from '@angular/router';
   styleUrl: './pollreview.component.css'
 })
 export class PollreviewComponent {
-
+     
 }
